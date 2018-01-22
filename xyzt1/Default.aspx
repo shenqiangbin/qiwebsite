@@ -10,6 +10,8 @@
     <title>CMA培训,CMA考试,CMA认证-华领教育</title>
     <link rel="stylesheet" type="text/css" href="css/reset.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <script src="js/jquery.min.js"></script>
+    <script src="js/Lunbo.js"></script>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <div class="section-one">
@@ -32,36 +34,38 @@
             <span class="headerBottom">关于CMA取证之路，听听他/她们怎么说</span>
         </div>
         <div style="text-align: center; margin-top: 30px;">
-            <div class="unslider-arrow prev"></div>
-            <div class="banner" style="width: 848px; margin: 0 auto; display: inline-block;">
+            <%--<div class="unslider-arrow prev" id="btnl"></div>
+            <div class="banner" id="BoxUl" style="width: 848px; margin: 0 auto; display: inline-block;">
                 <ul style="">
                     <li>
-                        <div class="box" style="height:auto;">
-                            <img src="img/vedio1.png" width="400"/>
-                            <img src="img/vedio2.png" width="400"/>
-                        </div>
+                         <img src="img/vedio1.png" width="400"/>      
                     </li>
                     <li>
-                        <div class="box">
-                            <img src="img/vedio2.png" width="400"/>
-                            <img src="img/vedio1.png" width="400"/>
-                        </div>
+                        <img src="img/vedio2.png" width="400"/>
                     </li>
-                    <%--<li>
-                        <div class="box">
-                             <img src="img/vedio1.png" />
-                            <img src="img/vedio2.png" />
-                        </div>
-                    </li>
-                     <li>
-                        <div class="box">
-                            <img src="img/vedio2.png" />
-                            <img src="img/vedio1.png" />
-                        </div>
-                    </li>--%>
+                    <li>
+                        <img src="img/vedio1.png" width="400"/>
+                    </li>                   
                 </ul>
             </div>
-            <div class="unslider-arrow next"></div>
+            <div class="unslider-arrow next" id="btnr"></div>--%>
+            <div class="Box">
+    	<div class="content">
+    		<div class="Box_con clearfix">
+    			<span class="btnl btn" id="btnl"></span>
+    			<span class="btnr btn" id="btnr"></span>
+    			
+    			<div class="conbox" id="BoxUl">
+	    			<ul style="left: 0px;">
+	    				<li class="cur" style="width:400px;"><img src="img/wanglin.jpg" alt=""></li>
+                        <li class="cur" style="width:400px;"><img src="img/wanglin2.jpg" alt=""></li>
+                        <li class="cur" style="width:400px;"><img src="img/wanglin3.jpg" alt=""></li>
+    				</ul>
+    			</div>    			
+    			<%--<p class="BoxSwitch" id="BoxSwitch"><span class=""></span><span class=""></span><span class=""></span><span class=""></span><span class="cur"></span></p>    			--%>
+    		</div>    		
+    	</div>
+    </div>
         </div>
     </section>
 
@@ -314,8 +318,28 @@
             </div>
             <span class="headerBottom">亲，我们都收到了，只愿不服青春不负卿</span>
         </div>
-        <div class="">
-
+        <div>
+            <div style="text-align: center; margin-top: 30px; border:0px solid red;">
+                    <div class="wx-arrowprev" onclick="pre()"></div>
+                    <div class="imgcontainer">
+                        <div id="img0" class="imgbox" style="margin-top: 40px; height: 300px;">
+                            <img src="img/wx1.jpg" style="height: 452px;" />
+                        </div>
+                        <div id="img1" class="imgbox" style="margin-left: -162px; margin-top: 20px;  z-index: 888;position:relative;">
+                            <img src="img/wx2.jpg" style="height: 497px;" />
+                        </div>
+                        <div id="img2" class="imgbox" style="margin-left: -162px; z-index: 999; position: relative">
+                            <img src="img/wx4.jpg" style="height:529px"/>
+                        </div>
+                        <div id="img3" class="imgbox" style="margin-left: -162px; margin-top: 20px;  z-index: 888; position: relative">
+                            <img src="img/wx3.jpg" style="height: 497px;" />
+                        </div>
+                        <div id="img4" class="imgbox" style="margin-left: -162px; margin-top: 40px; ">
+                            <img src="img/wx5.jpg" style="height: 452px;" />
+                        </div>
+                    </div>
+                    <div class="wx-arrownext"></div>
+                </div>
         </div>
     </section>
 
@@ -351,20 +375,41 @@
         </div>
     </section>
 
-    <script src="js/jquery.min.js"></script>
-    <script src="js/unslider.min.js"></script>
-
-    <script type="text/javascript">
+    <script type="text/javascript">        
         $(function () {
-            var unslider = $('.banner').unslider();
+            //var unslider = $('.banner').unslider();
 
-            $('.unslider-arrow').click(function () {
-                var fn = this.className.split(' ')[1];
+            //$('.unslider-arrow').click(function () {
+            //    var fn = this.className.split(' ')[1];
 
-                //  Either do unslider.data('unslider').next() or .prev() depending on the className
-                unslider.data('unslider')[fn]();
-            });
+            //    //  Either do unslider.data('unslider').next() or .prev() depending on the className
+            //    unslider.data('unslider')[fn]();
+            //});
+
+
+            //滚动元素id，左切换按钮，右切换按钮，切换元素个数id,滚动方式，切换方向，是否自动滚动，滚动距离，滚动时间，滚动间隔，显示个数
+            LbMove('BoxUl', 'btnl', 'btnr', '', true, 'left', true, 405, 1000, 5000, 2);
+
         });
+
+        var arr = ['img/wx1.jpg', 'img/wx2.jpg', 'img/wx4.jpg', 'img/wx3.jpg', 'img/wx5.jpg'];
+
+        function pre() {
+            var arrt = new Array();
+            for (var i = 1; i < arr.length; i++) {
+                arrt.push(arr[i]);
+            }
+            arrt.push(arr[0]);
+            arr = arrt;
+            bind(arrt);
+        }
+
+        function bind(arrt) {
+            for (var i = 0; i < arrt.length; i++) {                
+                $("#img" + i).find('img').attr("src", arrt[i]);
+            }
+        }
+
     </script>
 </asp:Content>
 
