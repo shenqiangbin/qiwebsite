@@ -1,7 +1,7 @@
 ﻿
 
 /*xyzt1*/
-.section-one{height: 400px; width: 100%; background: url('../img/section1_bg.jpg' ) no-repeat;background-size:100%; padding-top:7%; border:0px solid blue;}
+.section-one{height: 400px; width: 100%; background: url('../img/section1_bg1.jpg' ) no-repeat;background-size:100%; padding-top:7%; border:0px solid blue;}
 .section-one .word-box{width:500px; height:218px; margin:0 auto;padding-top:20px; opacity:0.8; border:0px solid red;text-align:center;background-color:rgba(108,77,203,0.2)}
 .section-one .word-box .word{ font-size:53px;line-height:63px;font-weight:bold;color:white;text-align:center;}
 .section-one .word-box a{color:white;text-decoration:none;font-size:34px;font-weight:normal;width: 191px;margin:0 auto;}
@@ -70,7 +70,7 @@ div.next {
 .section-three table td{border:1px solid gray;}
 
 .section-four{
-    height:500px;
+    height:800px;
     width:100%;
     padding-top: 50px;
 
@@ -78,12 +78,13 @@ div.next {
     background: url('../img/fourbg.jpg' ) no-repeat;
     background-size:100%;
 }
-    .section-four .content {
-        height:300px;
-        width:100%;
-
-        background: url('../img/fourcontent.jpg' ) no-repeat;
-        background-size:cover;
+    .section-four .content {       
+        margin:0 auto;
+        margin-top:50px;
+        height:700px;
+        width:963px;
+        background: url('../img/fourcontent4.png') no-repeat;
+        background-size:100%;
     }
 
 .section-five{
