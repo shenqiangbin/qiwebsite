@@ -145,3 +145,115 @@ div.wx-arrownext {
 
 .section-seven{height:500px;width:100%;background-color:white;text-align:center;padding-top: 50px;}
 
+/* section-seven */
+.section-seven{
+	height: 745px;
+}
+.section-seven .container{
+	position: relative;
+}
+.section-seven #context{
+	position: absolute;
+	padding: 0 18px;
+	box-sizing: border-box;
+	width:526px;
+	height: 437px;
+	right: 59px;
+	background: #FFFFFF;
+	top: 0;
+	text-align: center;
+}
+.section-seven #context img{
+	width: 481px;
+	height: 282px;
+}
+
+.section-seven #context .b-title{
+	line-height: 65px;
+	display: block;
+	color: #99774a;
+	font-weight: bold;
+	font-size: 22px;
+}
+.section-seven #context .title{
+	margin-top: 24px;
+	margin-bottom: 16px;
+	display: block;
+	font-size: 16px;
+	color: #99774a;
+	text-align: left;
+	
+}
+.section-seven #context .text{
+	color: #313131;
+	display: block;
+	text-align: left;
+	font-size: 13px;
+    margin-top: -16px;
+}
+.section-seven #context .btn{
+	
+	position: absolute;
+	right: 20px;
+	bottom: 50px;
+	font-size: 16px;
+	line-height: 30px;
+}
+.section-seven .container>.item-logo{
+	width: 151px;
+	height: 110px;
+	float: left;
+	margin-top: -1px;
+	margin-right: -1px;
+	text-align: center;
+    padding-top: 34px;
+    box-sizing: border-box;
+	line-height: 110px;
+}
+.section-seven .item-logo img{
+	margin-top: 4px;
+    display: inline-block;
+    vertical-align: top;
+}
+.section-seven .item-logo{
+	vertical-align: middle;
+}
+.section-seven .logo-left .item-logo{
+	width: 176px;
+	line-height: 110px;
+	text-align: center;
+	height: 110px;
+    padding-top: 34px;
+    box-sizing: border-box;
+	margin-left: -1px;
+	margin-top: -1px;
+	float: left;
+}
+.section-seven .logo-left{
+	width: 527px;
+	height:437px ;
+}
+.section-seven .item-logo{
+	border: 1px #bfbfbf solid;
+}
+.section-seven .item-logo.active{
+	background-color: #ececec;
+}
+.section-seven .container>div{
+	box-sizing: border-box;
+	border: 1px #bfbfbf solid;
+}
+.guwenbtn{
+    position: absolute;
+    right: 20px;
+    bottom: 50px;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 0 34px;
+    display: inline-block;
+    background: #99774a;
+    border-radius: 200px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+

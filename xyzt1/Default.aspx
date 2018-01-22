@@ -373,6 +373,94 @@
             </div>
             <span class="headerBottom">华领国际为企业500强龙头企业提供管理会计CMA内训及企业咨询服务</span>
         </div>
+        <div style="width:1110px;margin:0 auto;margin-top:20px;">
+            <div class="container">
+				<div class="logo-left">
+					<div class="item-logo active" data-img="inner-img/section2/img-1.jpg" data-title="世界500强排名第17位" data-text="全球汽车制造业领军企业、全球汽车企业中营业额排名第2、世界500强排名第17位">
+						<img src="inner-img/section2/logo-1.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-2.jpg" data-title="世界500强排名第39位" data-text="全球保险行业领军企业、中国营业额排名第1的保险集团、世界500强排名第39位 ">
+						
+						<img src="inner-img/section2/logo-2.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-3.jpg" data-title="世界500强排名第47位" data-text="中国营业额排名第1的移动通信运营商，世界500强排名第47位，中国移动通信集团公司">
+						
+						<img src="inner-img/section2/logo-3.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-4.jpg" data-title="世界500强排名第68位" data-text="中国汽车制造业领军企业、中国四大汽车集团之一，世界500强排名第68位，东风汽车公司">
+						
+						<img src="inner-img/section2/logo-4.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-5.jpg" data-title="世界500强排名第125位" data-text="中国四大汽车集团之一，世界500强排名第125位，中国一汽集团">
+						
+						<img src="inner-img/section2/logo-5.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-6.jpg" data-title="世界500强排名第135位" data-text="武器装备制造集团领军企业，世界500强排名第135位，中国兵器工业集团公司">
+						
+						<img src="inner-img/section2/logo-6.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-7.jpg" data-title="世界500强排名第136位" data-text="农产品领军企业，世界500强排名第136位，中粮集团有限公司">
+						
+						<img src="inner-img/section2/logo-7.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-8.jpg" data-title="世界500强排名第137位" data-text="中国四大汽车集团之一，世界500强排名第137位，北京汽车集团有限公司">
+						
+						<img src="inner-img/section2/logo-8.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-9.jpg" data-title="世界500强排名第143位" data-text="中国农业投入品一体化经营领军企业，世界500强排名第143位，中国中化集团公司">
+						
+						<img src="inner-img/section2/logo-9.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-10.jpg" data-title="世界500强排名第162位" data-text="中国军用航空、民用航空、非航空民品及现代服务业领军企业，世界500强排名第162位">
+						
+						<img src="inner-img/section2/logo-10.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-11.jpg" data-title="世界500强排名第194位" data-text="国际信息科技（IT）领军企业，世界500强排名第194位，惠普公司">
+						
+						<img src="inner-img/section2/logo-11.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-12.jpg" data-title="世界500强排名第368位" data-text="中国核电运营领军企业，世界368强排名，国家核电集团(国家电力投资集团公司)">
+						
+						<img src="inner-img/section2/logo-12.png"/>
+					</div>
+				</div>
+					<div class="item-logo" data-img="inner-img/section2/img-13.jpg" data-title="&nbsp;" data-text="中国快递物流综合服务领军企业，中国邮政速递物流股份有限公司">
+						
+						<img src="inner-img/section2/logo-13.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-14.jpg" data-title="全球乳业20强" data-text="全球乳业20强、中国乳业领军企业，蒙牛乳业集团  ">
+						
+						<img src="inner-img/section2/logo-14.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-15.jpg" data-title="世界知名制冷装备供应商" data-text="世界知名制冷装备供应商、中国冰柜制造领军企业，澳柯玛集团 ">
+						
+						<img src="inner-img/section2/logo-15.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-16.jpg" data-title="&nbsp;" data-text="中国集成电路芯片制造领军企业，中芯国际集成电路制造有限公司 ">
+						
+						<img src="inner-img/section2/logo-16.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-17.jpg" data-title="&nbsp;" data-text="全球味精和谷氨酸生产领军企业，阜丰集团有限公司  ">
+						
+						<img src="inner-img/section2/logo-17.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-18.jpg" data-title="&nbsp;" data-text="中国单体血液制品领军企业，泰邦生物制品有限公司 ">
+						
+						<img src="inner-img/section2/logo-18.png"/>
+					</div>
+					<div class="item-logo" data-img="inner-img/section2/img-19.jpg" data-title="&nbsp;" data-text="中国风电技术服务领军企业，北京天源科创风电技术有限责任公司">
+						
+						<img src="inner-img/section2/logo-19.png"/>
+					</div>
+				<div id="context">
+					<span class="b-title">华领为世界500强企业企业开展管理会计培训案例</span>
+					<img src="inner-img/section2/img-1.jpg" />
+					<span class="title">世界500强排名第17位</span>
+					<span class="text">全球汽车制造业领军企业、全球汽车企业中营业额排名第2、世界500强排名第17位</span>
+					<a href="http://lwt.zoosnet.net/lr/chatpre.aspx?id=lwt91490211&amp;lng=cn&amp;r=&amp;rf1=&amp;rf2=&amp;p=http%3A//www.hualingedu.com/inner/&amp;cid=1516536987493586880271&amp;sid=1516622867791438453438" target="_blank" class="guwenbtn">点击咨询课程顾问</a>
+				</div>
+			</div>
+        </div>
     </section>
 
     <script type="text/javascript">        
@@ -389,7 +477,13 @@
 
             //滚动元素id，左切换按钮，右切换按钮，切换元素个数id,滚动方式，切换方向，是否自动滚动，滚动距离，滚动时间，滚动间隔，显示个数
             LbMove('BoxUl', 'btnl', 'btnr', '', true, 'left', true, 405, 1000, 5000, 2);
-
+            $(".item-logo").click(function () {
+                $(".item-logo").removeClass("active");
+                $(this).addClass("active");
+                $("#context .title").text($(this).attr("data-title"));
+                $("#context .text").text($(this).attr("data-text"));
+                $("#context img").attr("src", $(this).attr("data-img"));
+            });
         });
 
         var arr = ['img/wx1.jpg', 'img/wx2.jpg', 'img/wx4.jpg', 'img/wx3.jpg', 'img/wx5.jpg'];
