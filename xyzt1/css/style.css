@@ -1,0 +1,97 @@
+﻿
+
+/*xyzt1*/
+.section-one{height: 400px; width: 100%; background: url('../img/section1_bg.jpg' ) no-repeat;background-size:100%; padding-top:7%; border:0px solid blue;}
+.section-one .word-box{width:500px; height:218px; margin:0 auto;padding-top:20px; opacity:0.8; border:0px solid red;text-align:center;background-color:rgba(108,77,203,0.2)}
+.section-one .word-box .word{ font-size:53px;line-height:63px;font-weight:bold;color:white;text-align:center;}
+.section-one .word-box a{color:white;text-decoration:none;font-size:34px;font-weight:normal;width: 191px;margin:0 auto;}
+
+.section-two{height:500px;width:100%;background-color:#FBFBF1;text-align:center;padding-top: 50px;}
+.boxheader{margin:0 auto;border:0px solid red;text-align:center;}
+.headerMiddle{margin:0 auto;text-align:center;}
+.headerMiddle img{vertical-align:middle;margin-top: -10px;}
+.headerMiddle span{font-size:24px;margin:0 10px;letter-spacing:2px;}
+.headerBottom{font-size: 18px; color: #838381; letter-spacing: 2px;}
+
+.section-two .box {
+    border: 0px solid red;
+    text-align:center;
+}
+    .section-two .box img {
+        width: 400px;
+        margin:0 5px;
+    }
+div.prev {
+    width:70px;
+    height:70px;
+    background: url('../img/arrowleft.jpg' ) no-repeat;
+    background-size:100%;
+
+    /*箭头容器和内容平行*/
+    display:inline-block;
+    /*箭头在中间*/
+    vertical-align: top;
+    margin-top: 85px;
+}
+div.next {
+    width:70px;
+    height:70px;
+    background: url('../img/arrowright.jpg' ) no-repeat;
+    background-size:100%;
+    /*箭头容器和内容平行*/
+    display:inline-block;
+    /*箭头在中间*/
+    vertical-align: top;
+    margin-top: 85px;
+}
+
+.banner { position: relative; overflow: auto; }
+.banner li { list-style: none; }
+.banner ul li { float: left; }
+
+.section-three{height:650px;width:100%;background-color:#F5F5D3;text-align:center;padding-top: 50px;}
+
+.section-three table{border:1px solid black;    font-size: 15px;    color: gray; text-align:center;}
+.section-three table tr{border:1px solid gray;}
+.section-three table td{border:1px solid gray;}
+
+.section-four{
+    height:500px;
+    width:100%;
+    padding-top: 50px;
+
+    text-align:center;
+    background: url('../img/fourbg.jpg' ) no-repeat;
+    background-size:100%;
+}
+    .section-four .content {
+        height:300px;
+        width:100%;
+
+        background: url('../img/fourcontent.jpg' ) no-repeat;
+        background-size:cover;
+    }
+
+.section-five{
+    height:500px;
+    width:100%;
+    padding-top: 50px;
+
+    text-align:center;
+    background: url('../img/fivebg.jpg' ) no-repeat;
+    background-size:100%;
+}
+
+.section-six{height:757px;width:100%;background-color:#FBFBF1;text-align:center;padding-top: 50px;}
+    .section-six .content {
+        margin:0 auto;
+        padding-top:20px;
+        width:970px;
+
+        font-size: 18px;
+        color: #838381;
+        /*letter-spacing: 1px;*/
+    }
+
+.section-seven{height:500px;width:100%;background-color:white;text-align:center;padding-top: 50px;}
+
