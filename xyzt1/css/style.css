@@ -50,13 +50,13 @@ div.next {
 .section-two .Box .Box_con {position: relative;}
 .section-two .Box .Box_con .btnl {position: absolute;}
 .section-two .Box .Box_con .btn {display: block;width: 41px;height: 41px;position: absolute;top: 80px;cursor: pointer;}
-.section-two .Box .Box_con .btnl {background: url(../img/arrowleft.jpg) no-repeat center; width:70px;height:70px; background-size:100%;position:relative;float:left;    margin-top: -16px;}
-.section-two .Box .Box_con .btnr {background: url(../img/arrowright.jpg) no-repeat center; width:70px;height:70px; background-size:100%;position:relative;float:right;    margin-top: -16px;}
+.section-two .Box .Box_con .btnl {background: url(../img/arrowleft.jpg) no-repeat center; width:70px;height:70px; background-size:100%;position:relative;float:left;    margin-top: -12px;}
+.section-two .Box .Box_con .btnr {background: url(../img/arrowright.jpg) no-repeat center; width:70px;height:70px; background-size:100%;position:relative;float:right;    margin-top: -12px;}
 .section-two .Box .Box_con .conbox {position: relative;overflow: hidden;}
 .section-two .Box .Box_con .conbox ul {position: relative;list-style: none;width:9999px !important;}
 .section-two .Box .Box_con .conbox ul li {float: left;width: 400px;margin-left: 20px;overflow: hidden;}
 .section-two .Box .Box_con .conbox ul li:first-child {margin-left: 0;}
-.section-two .Box .Box_con .conbox ul li img {display: block;width: 400px;height: 200px;transition: all 0.5s;}
+.section-two .Box .Box_con .conbox ul li img {display: block;width: 400px;height: 230px;transition: all 0.5s;}
 			
 
 .banner { position: relative; overflow: auto; }
