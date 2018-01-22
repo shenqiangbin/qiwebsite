@@ -129,8 +129,8 @@
             }
     </style>
     <div style="text-align: center; margin-top: 30px;">
-        <div class="imgcontainer">
-            <div id="img0" class="imgbox" style="margin-top: 40px; height: 300px;">
+        <div class="imgcontainer" id="imgcontainer">
+            <div id="img0" class="imgbox" style="margin-top: 40px; height: 300px;position: relative">
                 <img src="xyzt1/img/wx1.jpg" style="height: 452px;" />
             </div>
             <div id="img1" class="imgbox" style="margin-left: -162px; margin-top: 20px; height: 400px; z-index: 888;position:relative;">
@@ -142,7 +142,7 @@
             <div id="img3" class="imgbox" style="margin-left: -162px; margin-top: 20px; height: 400px; z-index: 888; position: relative">
                 <img src="xyzt1/img/wx4.jpg" style="height: 497px;" />
             </div>
-            <div id="img4" class="imgbox" style="margin-left: -162px; margin-top: 40px; height: 300px;">
+            <div id="img4" class="imgbox" style="margin-left: -162px; margin-top: 40px; height: 300px;position: relative">
                 <img src="xyzt1/img/wx5.jpg" style="height: 452px;" />
             </div>
         </div>
@@ -150,6 +150,43 @@
     <button onclick="Test()">test</button>
     <script src="Scripts/jquery-1.7.1.js"></script>
     <script>
+        function Test() {
+
+            var html = $("#imgcontainer").html();
+            $("#img0").attr("id", "img00");
+
+            $("#img1").animate({ left: "-140px", marginTop: "40px" });
+            $("#img1").find('img').animate({ height: "452px" });
+            $("#img1").css("z-index", "777");
+            $("#img1").attr("id", "img0");
+
+            $("#img2").animate({ left: "-150px", marginTop: "20px", marginLeft: "-162px" });
+            $("#img2").css("z-index", "888");
+            $("#img2").find('img').animate({ height: "497px" });
+            $("#img2").attr("id", "img1");
+
+            $("#img3").animate({ left: "-150px", marginTop: "0px", marginLeft: "-162px" });
+            $("#img3").css("z-index", "999");
+            $("#img3").find('img').animate({ height: "530px" });
+            $("#img3").attr("id", "img2");
+
+            $("#img4").animate({ left: "-140px", marginTop: "20px", marginLeft: "-162px" });
+            $("#img4").css("z-index", "888");
+            $("#img4").find('img').animate({ height: "497px" });
+            $("#img4").attr("id", "img3");  
+
+            $("#img00").animate({ left: "561px", marginTop: "40px" });
+            $("#img00").css("z-index", "777");
+            $("#img00").find('img').animate({ height: "452px" });
+            $("#img00").attr("id", "img4");
+            setTimeout(function () {
+                $("#imgcontainer").html(html);
+                pre();
+            }, 500);
+           
+        }
+
+
         var arr = ['xyzt1/img/wx1.jpg', 'xyzt1/img/wx2.jpg', 'xyzt1/img/wx3.jpg', 'xyzt1/img/wx4.jpg', 'xyzt1/img/wx5.jpg'];
         function pre() {
             var arrt = new Array();
@@ -165,34 +202,10 @@
             //$("#img0").find('img').attr('src', 'xyzt1/img/wx2.jpg');
         }
 
-        function Test() {
-
-            $("#img0").attr("id", "img00");
-
-            $("#img1").animate({ left: "-140px", marginTop: "40px" });
-            $("#img1").find('img').animate({ height: "452px" });
-            $("#img2").attr("z-index", "777");
-            $("#img1").attr("id", "img0");
-
-            $("#img2").animate({ left: "-150px", marginTop: "20px", marginLeft:"-162px" });
-            $("#img2").attr("z-index", "888");
-            $("#img2").find('img').animate({ height: "497px" });
-            $("#img2").attr("id", "img1");
-
-            $("#img3").animate({ left: "-150px", marginTop: "0px", marginLeft: "-162px" });
-            $("#img3").attr("z-index", "999");
-            $("#img3").find('img').animate({ height: "530px" });
-            $("#img3").attr("id", "img2");
-        }
-
         function bind(arrt) {
             for (var i = 0; i < arrt.length; i++) {
                 //$("#img2").animate({ left: "-150px", height: "400px", marginTop: "20px", marginLeft: "-162px" });
-                $("#img" + i).find('img').attr("src", arrt[i]);
-                if (i == 2) {
-                    $("#img2").animate({ left: "-150px", marginTop: "20px", marginLeft: "-162px" });
-                    $("#img2").find('img').animate({ height: "497px" });
-                }                 
+                $("#img" + i).find('img').attr("src", arrt[i]);                               
             }
         }
     </script>
