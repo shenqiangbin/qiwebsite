@@ -58,12 +58,18 @@
 
                         <div class="conbox" id="BoxUl">
                             <ul style="left: 0px;">
-                                <li class="cur" style="width: 400px;">
-                                    <img src="img/wanglin.jpg" alt=""></li>
-                                <li class="cur" style="width: 400px;">
-                                    <img src="img/wanglin2.jpg" alt=""></li>
-                                <li class="cur" style="width: 400px;">
-                                    <img src="img/wanglin3.jpg" alt=""></li>
+                                <li class="cur" style="width: 400px;position:relative;cursor:pointer;">
+                                    <a href="http://www.bzcj.com/front/playkpoint/420?kpointId=1847" target="_blank">
+                                        <img src="img/wanglin.jpg" alt=""></li>
+                                    </a>
+                                <li class="cur" style="width: 400px;position:relative;cursor:pointer;">
+                                    <a href="http://www.bzcj.com/front/playkpoint/420?kpointId=1848" target="_blank">
+                                        <img src="img/wanglin2.jpg" alt=""></li>
+                                    </a>
+                                <li class="cur" style="width: 400px;position:relative;cursor:pointer;">
+                                    <a href="http://www.bzcj.com/front/playkpoint/420?kpointId=1845" target="_blank">
+                                        <img src="img/wanglin3.jpg" alt=""></li>
+                                    </a>
                             </ul>
                         </div>
                         <%--<p class="BoxSwitch" id="BoxSwitch"><span class=""></span><span class=""></span><span class=""></span><span class=""></span><span class="cur"></span></p>    			--%>
@@ -94,381 +100,81 @@
                             <td width="50">科目</td>
                             <td width="50">分数</td>
                         </tr>
-                        <tr>
-                            <td>康蕾磊	</td>
-                            <td>P1</td>
-                            <td>470</td>
-                        </tr>
-                        <tr>
-                            <td>沈丹丹	</td>
-                            <td>P1</td>
-                            <td>470</td>
-                        </tr>
-                        <tr>
-                            <td>郭晓艳	</td>
-                            <td>P1</td>
-                            <td>470</td>
-                        </tr>
-                        <tr>
-                            <td>翟晓慧	</td>
-                            <td>P1</td>
-                            <td>470</td>
-                        </tr>
-                        <tr>
-                            <td>淡宝丽	</td>
-                            <td>P1</td>
-                            <td>470</td>
-                        </tr>
-                        <tr>
-                            <td>董金玲	</td>
-                            <td>P1</td>
-                            <td>470</td>
-                        </tr>
-                        <tr>
-                            <td>孙艳萍	</td>
-                            <td>P1</td>
-                            <td>470</td>
-                        </tr>
-                        <tr>
-                            <td>崔白鸽	</td>
-                            <td>P1</td>
-                            <td>460</td>
-                        </tr>
-                        <tr>
-                            <td>尚新娇	</td>
-                            <td>P1</td>
-                            <td>460</td>
-                        </tr>
-                        <tr>
-                            <td>赵倩倩	</td>
-                            <td>P1</td>
-                            <td>460</td>
-                        </tr>
-                        <tr>
-                            <td>孟依楠	</td>
-                            <td>P1</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>文艳	</td>
-                            <td>P1</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>周春梅	</td>
-                            <td>P1</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>李聪	</td>
-                            <td>P1</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>杨晓娟	</td>
-                            <td>P1</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>王娟朋	</td>
-                            <td>P1</td>
-                            <td>440</td>
-                        </tr>
-                        <tr>
-                            <td>尚琳璐	</td>
-                            <td>P1</td>
-                            <td>440</td>
-                        </tr>
-                        <tr>
-                            <td>任荣华	</td>
-                            <td>P1</td>
-                            <td>440</td>
-                        </tr>
-                        <tr>
-                            <td>赵晴	</td>
-                            <td>P1</td>
-                            <td>440</td>
-                        </tr>
-                        <tr>
-                            <td>陈溥淳	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>王云香	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>牛玉玲	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>张香勤	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>王志晶	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>张晓蕾	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>张林飞	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>王子怡	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>郭燕玲	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>王戈睿	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>杜艳萍	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>吕萌萌	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>白礼妹	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>文凌燕	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>宋瑞洁	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>丁玲玲	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>康艳净	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>崔金凤	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>张萌	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>李梅	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>牛营丽	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>袭晓月	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>刘阳阳	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>杨俊	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>姜颖媛	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>乔肖雅	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>王莹	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>曹畅	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>周艳	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>刘春绿	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>杨文	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>吕贺	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>陈三广	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>顾越	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>梁汝堃	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>樊倩倩	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>李硕	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>奕琳	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>王德珍	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>石红珍	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>赵静	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>田振宇	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>王丽萍	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>何佳乐	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>李川	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>韩晓华	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>何钢	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>王艳	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>苗丽霞	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>杨霞	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>李晓娟	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>李相杰	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>周婷	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>宋东虹	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>司伟敏	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>黄晋	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                        </tr>
+<tr><td>康蕾* </td><td>P1</td><td>470</td></tr>
+<tr><td>沈丹* </td><td>P1</td><td>470</td></tr>
+<tr><td>郭晓* </td><td>P1</td><td>470</td></tr>
+<tr><td>翟晓* </td><td>P1</td><td>470</td></tr>
+<tr><td>淡宝* </td><td>P1</td><td>470</td></tr>
+<tr><td>董金* </td><td>P1</td><td>470</td></tr>
+<tr><td>孙艳* </td><td>P1</td><td>470</td></tr>
+<tr><td>崔白* </td><td>P1</td><td>460</td></tr>
+<tr><td>尚新* </td><td>P1</td><td>460</td></tr>
+<tr><td>赵倩* </td><td>P1</td><td>460</td></tr>
+<tr><td>孟依* </td><td>P1</td><td>450</td></tr>
+<tr><td>文* </td><td>P1</td><td>450</td></tr>
+<tr><td>周春* </td><td>P1</td><td>450</td></tr>
+<tr><td>李* </td><td>P1</td><td>450</td></tr>
+<tr><td>杨晓* </td><td>P1</td><td>450</td></tr>
+<tr><td>王娟* </td><td>P1</td><td>440</td></tr>
+<tr><td>尚琳* </td><td>P1</td><td>440</td></tr>
+<tr><td>任荣* </td><td>P1</td><td>440</td></tr>
+<tr><td>赵* </td><td>P1</td><td>440</td></tr>
+<tr><td>陈溥* </td><td>P1</td><td>430</td></tr>
+<tr><td>王云* </td><td>P1</td><td>430</td></tr>
+<tr><td>牛玉* </td><td>P1</td><td>430</td></tr>
+<tr><td>张香* </td><td>P1</td><td>430</td></tr>
+<tr><td>王志* </td><td>P1</td><td>430</td></tr>
+<tr><td>张晓* </td><td>P1</td><td>430</td></tr>
+<tr><td>张林* </td><td>P1</td><td>430</td></tr>
+<tr><td>王子* </td><td>P1</td><td>430</td></tr>
+<tr><td>郭燕* </td><td>P1</td><td>430</td></tr>
+<tr><td>王戈* </td><td>P1</td><td>420</td></tr>
+<tr><td>杜艳* </td><td>P1</td><td>420</td></tr>
+<tr><td>吕萌* </td><td>P1</td><td>420</td></tr>
+<tr><td>白礼* </td><td>P1</td><td>420</td></tr>
+<tr><td>文凌* </td><td>P1</td><td>420</td></tr>
+<tr><td>宋瑞* </td><td>P1</td><td>420</td></tr>
+<tr><td>丁玲* </td><td>P1</td><td>420</td></tr>
+<tr><td>康艳* </td><td>P1</td><td>420</td></tr>
+<tr><td>崔金* </td><td>P1</td><td>420</td></tr>
+<tr><td>张* </td><td>P1</td><td>420</td></tr>
+<tr><td>李* </td><td>P1</td><td>420</td></tr>
+<tr><td>牛营* </td><td>P1</td><td>420</td></tr>
+<tr><td>袭晓* </td><td>P1</td><td>420</td></tr>
+<tr><td>刘阳* </td><td>P1</td><td>420</td></tr>
+<tr><td>杨* </td><td>P1</td><td>420</td></tr>
+<tr><td>姜颖* </td><td>P1</td><td>410</td></tr>
+<tr><td>乔肖* </td><td>P1</td><td>410</td></tr>
+<tr><td>王* </td><td>P1</td><td>410</td></tr>
+<tr><td>曹* </td><td>P1</td><td>410</td></tr>
+<tr><td>周* </td><td>P1</td><td>410</td></tr>
+<tr><td>刘春* </td><td>P1</td><td>410</td></tr>
+<tr><td>杨* </td><td>P1</td><td>410</td></tr>
+<tr><td>吕* </td><td>P1</td><td>410</td></tr>
+<tr><td>陈三* </td><td>P1</td><td>410</td></tr>
+<tr><td>顾* </td><td>P1</td><td>410</td></tr>
+<tr><td>梁汝* </td><td>P1</td><td>410</td></tr>
+<tr><td>樊倩* </td><td>P1</td><td>410</td></tr>
+<tr><td>李* </td><td>P1</td><td>410</td></tr>
+<tr><td>奕* </td><td>P1</td><td>400</td></tr>
+<tr><td>王德* </td><td>P1</td><td>400</td></tr>
+<tr><td>石红* </td><td>P1</td><td>400</td></tr>
+<tr><td>赵* </td><td>P1</td><td>400</td></tr>
+<tr><td>田振* </td><td>P1</td><td>400</td></tr>
+<tr><td>王丽* </td><td>P1</td><td>400</td></tr>
+<tr><td>何佳* </td><td>P1</td><td>400</td></tr>
+<tr><td>李* </td><td>P1</td><td>400</td></tr>
+<tr><td>韩晓* </td><td>P1</td><td>400</td></tr>
+<tr><td>何* </td><td>P1</td><td>400</td></tr>
+<tr><td>王* </td><td>P1</td><td>400</td></tr>
+<tr><td>苗丽* </td><td>P1</td><td>400</td></tr>
+<tr><td>杨* </td><td>P1</td><td>400</td></tr>
+<tr><td>李晓* </td><td>P1</td><td>400</td></tr>
+<tr><td>李相* </td><td>P1</td><td>400</td></tr>
+<tr><td>周* </td><td>P1</td><td>400</td></tr>
+<tr><td>宋东* </td><td>P1</td><td>400</td></tr>
+<tr><td>司伟* </td><td>P1</td><td>400</td></tr>
+<tr><td>黄* </td><td>P1</td><td>400</td></tr>
                     </table>
                 </div>
             </div>
@@ -482,427 +188,94 @@
                             <td width="50">科目</td>
                             <td width="50">分数</td>
                         </tr>
-                        <tr>
-                            <td>王芸	</td>
-                            <td>P2</td>
-                            <td>470</td>
-                        </tr>
-                        <tr>
-                            <td>徐娟	</td>
-                            <td>P2</td>
-                            <td>470</td>
-                        </tr>
-                        <tr>
-                            <td>周倩	</td>
-                            <td>P2</td>
-                            <td>470</td>
-                        </tr>
-                        <tr>
-                            <td>王艳艳	</td>
-                            <td>P2</td>
-                            <td>470</td>
-                        </tr>
-                        <tr>
-                            <td>曹诗敏	</td>
-                            <td>P2</td>
-                            <td>470</td>
-                        </tr>
-                        <tr>
-                            <td>陈艳丽	</td>
-                            <td>P2</td>
-                            <td>470</td>
-                        </tr>
-                        <tr>
-                            <td>肖雅楠	</td>
-                            <td>P2</td>
-                            <td>460</td>
-                        </tr>
-                        <tr>
-                            <td>张爱萍	</td>
-                            <td>P2</td>
-                            <td>460</td>
-                        </tr>
-                        <tr>
-                            <td>夏丽君	</td>
-                            <td>P2</td>
-                            <td>460</td>
-                        </tr>
-                        <tr>
-                            <td>史红菊	</td>
-                            <td>P2</td>
-                            <td>460</td>
-                        </tr>
-                        <tr>
-                            <td>刘云	</td>
-                            <td>P2</td>
-                            <td>460</td>
-                        </tr>
-                        <tr>
-                            <td>段福娟	</td>
-                            <td>P2</td>
-                            <td>460</td>
-                        </tr>
-                        <tr>
-                            <td>张洪杰	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>刘元	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>王建慧	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>赵荣超	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>张松艳	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>贺会琴	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>李文婷	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>许兴华	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>姜娟	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>张育松	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>张一琳	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>傅文杰	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>郝以明	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>王瑞	</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>刘婕	</td>
-                            <td>P2</td>
-                            <td>440</td>
-                        </tr>
-                        <tr>
-                            <td>黄秋艳	</td>
-                            <td>P2</td>
-                            <td>440</td>
-                        </tr>
-                        <tr>
-                            <td>朱秋花	</td>
-                            <td>P2</td>
-                            <td>440</td>
-                        </tr>
-                        <tr>
-                            <td>刘静	</td>
-                            <td>P2</td>
-                            <td>440</td>
-                        </tr>
-                        <tr>
-                            <td>袁倩	</td>
-                            <td>P2</td>
-                            <td>440</td>
-                        </tr>
-                        <tr>
-                            <td>杨艳艳	</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>白秋景	</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>聂利霞	</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>李冬海	</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>孔丽萍	</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>田波波	</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>高嵩	</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>杨光	</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>陈丽	</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>王亚鸽	</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>张晓静	</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>孙秀燕	</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>李小平	</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>秦慧平	</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>张翠翠	</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>钱冬梅	</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>李雪帆	</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>薛志远	</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>张海	</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>王树芳	</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>陈婧	</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>仲伟骄	</td>
-                            <td>P2</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>孟令帅	</td>
-                            <td>P2</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>王峥	</td>
-                            <td>P2</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>郭东华	</td>
-                            <td>P2</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>张媛媛	</td>
-                            <td>P2</td>
-                            <td>410</td>
-                        </tr>
-                        <tr>
-                            <td>王翔	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>王子恩	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>卢冰	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>郭佩	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>刘兆旭	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>郑蕾蕾	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>李欣	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>刘晓琴	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>赵静	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>王娟	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>周春花	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>杨玉琴	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>毛丽娟	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>管丽敏	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>宋趣兰	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>姚艳丽	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>韩金玲	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>陈剑平	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>郑庆玲	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>李海艳	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>王贵琴	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>张志辉	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>杨清淳	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>周慧敏	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>程茹	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>王慧萍	</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-
+<tr><td>王*</td><td>P2</td><td>470</td></tr>
+<tr><td>徐*</td><td>P2</td><td>470</td></tr>
+<tr><td>周*</td><td>P2</td><td>470</td></tr>
+<tr><td>王艳*</td><td>P2</td><td>470</td></tr>
+<tr><td>曹诗*</td><td>P2</td><td>470</td></tr>
+<tr><td>陈艳*</td><td>P2</td><td>470</td></tr>
+<tr><td>肖雅*</td><td>P2</td><td>460</td></tr>
+<tr><td>张爱*</td><td>P2</td><td>460</td></tr>
+<tr><td>夏丽*</td><td>P2</td><td>460</td></tr>
+<tr><td>史红*</td><td>P2</td><td>460</td></tr>
+<tr><td>刘*</td><td>P2</td><td>460</td></tr>
+<tr><td>段福*</td><td>P2</td><td>460</td></tr>
+<tr><td>张洪*</td><td>P2</td><td>450</td></tr>
+<tr><td>刘*</td><td>P2</td><td>450</td></tr>
+<tr><td>王建*</td><td>P2</td><td>450</td></tr>
+<tr><td>赵荣*</td><td>P2</td><td>450</td></tr>
+<tr><td>张松*</td><td>P2</td><td>450</td></tr>
+<tr><td>贺会*</td><td>P2</td><td>450</td></tr>
+<tr><td>李文*</td><td>P2</td><td>450</td></tr>
+<tr><td>许兴*</td><td>P2</td><td>450</td></tr>
+<tr><td>姜*</td><td>P2</td><td>450</td></tr>
+<tr><td>张育*</td><td>P2</td><td>450</td></tr>
+<tr><td>张一*</td><td>P2</td><td>450</td></tr>
+<tr><td>傅文*</td><td>P2</td><td>450</td></tr>
+<tr><td>郝以*</td><td>P2</td><td>450</td></tr>
+<tr><td>王*</td><td>P2</td><td>450</td></tr>
+<tr><td>刘*</td><td>P2</td><td>440</td></tr>
+<tr><td>黄秋*</td><td>P2</td><td>440</td></tr>
+<tr><td>朱秋*</td><td>P2</td><td>440</td></tr>
+<tr><td>刘*</td><td>P2</td><td>440</td></tr>
+<tr><td>袁*</td><td>P2</td><td>440</td></tr>
+<tr><td>杨艳*</td><td>P2</td><td>430</td></tr>
+<tr><td>白秋*</td><td>P2</td><td>430</td></tr>
+<tr><td>聂利*</td><td>P2</td><td>430</td></tr>
+<tr><td>李冬*</td><td>P2</td><td>430</td></tr>
+<tr><td>孔丽*</td><td>P2</td><td>430</td></tr>
+<tr><td>田波*</td><td>P2</td><td>430</td></tr>
+<tr><td>高*</td><td>P2</td><td>430</td></tr>
+<tr><td>杨*</td><td>P2</td><td>430</td></tr>
+<tr><td>陈*</td><td>P2</td><td>430</td></tr>
+<tr><td>王亚*</td><td>P2</td><td>430</td></tr>
+<tr><td>张晓*</td><td>P2</td><td>430</td></tr>
+<tr><td>孙秀*</td><td>P2</td><td>430</td></tr>
+<tr><td>李小*</td><td>P2</td><td>430</td></tr>
+<tr><td>秦慧*</td><td>P2</td><td>420</td></tr>
+<tr><td>张翠*</td><td>P2</td><td>420</td></tr>
+<tr><td>钱冬*</td><td>P2</td><td>420</td></tr>
+<tr><td>李雪*</td><td>P2</td><td>420</td></tr>
+<tr><td>薛志*</td><td>P2</td><td>420</td></tr>
+<tr><td>张*</td><td>P2</td><td>420</td></tr>
+<tr><td>王树*</td><td>P2</td><td>420</td></tr>
+<tr><td>陈*</td><td>P2</td><td>420</td></tr>
+<tr><td>仲伟*</td><td>P2</td><td>410</td></tr>
+<tr><td>孟令*</td><td>P2</td><td>410</td></tr>
+<tr><td>王*</td><td>P2</td><td>410</td></tr>
+<tr><td>郭东*</td><td>P2</td><td>410</td></tr>
+<tr><td>张媛*</td><td>P2</td><td>410</td></tr>
+<tr><td>王*</td><td>P2</td><td>400</td></tr>
+<tr><td>王子*</td><td>P2</td><td>400</td></tr>
+<tr><td>卢*</td><td>P2</td><td>400</td></tr>
+<tr><td>郭*</td><td>P2</td><td>400</td></tr>
+<tr><td>刘兆*</td><td>P2</td><td>400</td></tr>
+<tr><td>郑蕾*</td><td>P2</td><td>400</td></tr>
+<tr><td>李*</td><td>P2</td><td>400</td></tr>
+<tr><td>刘晓*</td><td>P2</td><td>400</td></tr>
+<tr><td>赵*</td><td>P2</td><td>400</td></tr>
+<tr><td>王*</td><td>P2</td><td>400</td></tr>
+<tr><td>周春*</td><td>P2</td><td>400</td></tr>
+<tr><td>杨玉*</td><td>P2</td><td>400</td></tr>
+<tr><td>毛丽*</td><td>P2</td><td>400</td></tr>
+<tr><td>管丽*</td><td>P2</td><td>400</td></tr>
+<tr><td>宋趣*</td><td>P2</td><td>400</td></tr>
+<tr><td>姚艳*</td><td>P2</td><td>400</td></tr>
+<tr><td>韩金*</td><td>P2</td><td>400</td></tr>
+<tr><td>陈剑*</td><td>P2</td><td>400</td></tr>
+<tr><td>郑庆*</td><td>P2</td><td>400</td></tr>
+<tr><td>李海*</td><td>P2</td><td>400</td></tr>
+<tr><td>王贵*</td><td>P2</td><td>400</td></tr>
+<tr><td>张志*</td><td>P2</td><td>400</td></tr>
+<tr><td>杨清*</td><td>P2</td><td>400</td></tr>
+<tr><td>周慧*</td><td>P2</td><td>400</td></tr>
+<tr><td>程*</td><td>P2</td><td>400</td></tr>
+<tr><td>王慧*</td><td>P2</td><td>400</td></tr>
                     </table>
                 </div>
             </div>
             <div class="col3" style="width: 302px; height: 500px; display: inline-block; border: 0px solid red; margin: 0 25px;">
-                <div>
+                <div style="text-align:center;">
                     <img src="img/two.png" width="200" /></div>
                 <div style="overflow-y: scroll; height: 338px; margin-top: 42px;">
                     <table>
@@ -913,188 +286,32 @@
                             <td width="50">科目</td>
                             <td width="50">分数</td>
                         </tr>
-                        <tr>
-                            <td>刘风杰	</td>
-                            <td>P1</td>
-                            <td>470</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>岳妍	</td>
-                            <td>P1</td>
-                            <td>460</td>
-                            <td>P2</td>
-                            <td>440</td>
-                        </tr>
-                        <tr>
-                            <td>贺丽君	</td>
-                            <td>P1</td>
-                            <td>450</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>李慧娜	</td>
-                            <td>P1</td>
-                            <td>450</td>
-                            <td>P2</td>
-                            <td>440</td>
-                        </tr>
-                        <tr>
-                            <td>邹艳芳	</td>
-                            <td>P1</td>
-                            <td>450</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>白金	</td>
-                            <td>P1</td>
-                            <td>440</td>
-                            <td>P2</td>
-                            <td>450</td>
-                        </tr>
-                        <tr>
-                            <td>毛艳玲	</td>
-                            <td>P1</td>
-                            <td>440</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>葛东方	</td>
-                            <td>P1</td>
-                            <td>440</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>郭丽红	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>张英华	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>张春燕	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>张松	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>张秋慧	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>田俐	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>胡红丽	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                            <td>P2</td>
-                            <td>390</td>
-                        </tr>
-                        <tr>
-                            <td>郭静	</td>
-                            <td>P1</td>
-                            <td>430</td>
-                            <td>P2</td>
-                            <td>390</td>
-                        </tr>
-                        <tr>
-                            <td>李夏	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>马红蕊	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                            <td>P2</td>
-                            <td>430</td>
-                        </tr>
-                        <tr>
-                            <td>石敏	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>王玉亮	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>周晓丹	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>路红妍	</td>
-                            <td>P1</td>
-                            <td>420</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>李文洋	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>苏冉冉	</td>
-                            <td>P1</td>
-                            <td>410</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
-                        <tr>
-                            <td>郭万贞	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                            <td>P2</td>
-                            <td>420</td>
-                        </tr>
-                        <tr>
-                            <td>张丽萍	</td>
-                            <td>P1</td>
-                            <td>400</td>
-                            <td>P2</td>
-                            <td>400</td>
-                        </tr>
+<tr><td>刘风*</td><td>P1</td><td>470</td><td>P2</td><td>420</td></tr>
+<tr><td>岳*</td><td>P1</td><td>460</td><td>P2</td><td>440</td></tr>
+<tr><td>贺丽*</td><td>P1</td><td>450</td><td>P2</td><td>450</td></tr>
+<tr><td>李慧*</td><td>P1</td><td>450</td><td>P2</td><td>440</td></tr>
+<tr><td>邹艳*</td><td>P1</td><td>450</td><td>P2</td><td>430</td></tr>
+<tr><td>白*</td><td>P1</td><td>440</td><td>P2</td><td>450</td></tr>
+<tr><td>毛艳*</td><td>P1</td><td>440</td><td>P2</td><td>420</td></tr>
+<tr><td>葛东*</td><td>P1</td><td>440</td><td>P2</td><td>430</td></tr>
+<tr><td>郭丽*</td><td>P1</td><td>430</td><td>P2</td><td>420</td></tr>
+<tr><td>张英*</td><td>P1</td><td>430</td><td>P2</td><td>420</td></tr>
+<tr><td>张春*</td><td>P1</td><td>430</td><td>P2</td><td>430</td></tr>
+<tr><td>张*</td><td>P1</td><td>430</td><td>P2</td><td>430</td></tr>
+<tr><td>张秋*</td><td>P1</td><td>430</td><td>P2</td><td>420</td></tr>
+<tr><td>田*</td><td>P1</td><td>430</td><td>P2</td><td>400</td></tr>
+<tr><td>胡红*</td><td>P1</td><td>430</td><td>P2</td><td>390</td></tr>
+<tr><td>郭*</td><td>P1</td><td>430</td><td>P2</td><td>390</td></tr>
+<tr><td>李*</td><td>P1</td><td>420</td><td>P2</td><td>400</td></tr>
+<tr><td>马红*</td><td>P1</td><td>420</td><td>P2</td><td>430</td></tr>
+<tr><td>石*</td><td>P1</td><td>420</td><td>P2</td><td>420</td></tr>
+<tr><td>王玉*</td><td>P1</td><td>420</td><td>P2</td><td>400</td></tr>
+<tr><td>周晓*</td><td>P1</td><td>420</td><td>P2</td><td>400</td></tr>
+<tr><td>路红*</td><td>P1</td><td>420</td><td>P2</td><td>400</td></tr>
+<tr><td>李文*</td><td>P1</td><td>410</td><td>P2</td><td>400</td></tr>
+<tr><td>苏冉*</td><td>P1</td><td>410</td><td>P2</td><td>400</td></tr>
+<tr><td>郭万*</td><td>P1</td><td>400</td><td>P2</td><td>420</td></tr>
+<tr><td>张丽*</td><td>P1</td><td>400</td><td>P2</td><td>400</td></tr>
                     </table>
                 </div>
             </div>
