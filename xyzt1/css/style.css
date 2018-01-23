@@ -253,15 +253,14 @@ div.wx-arrownext {
 .guwenbtn{
     position: absolute;
     right: 20px;
-    bottom: 50px;
+    bottom: 40px;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 42px;
     padding: 0 34px;
     display: inline-block;
-    background: #99774a;
-    border-radius: 200px;
     color: #FFFFFF;
-    text-decoration: none;
+    background:url(../img/guwenbg.png);
+    background-size: 100%;
 }
 
 

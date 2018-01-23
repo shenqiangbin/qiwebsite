@@ -470,7 +470,7 @@
                     <img src="inner-img/section2/logo-19.png" />
                 </div>
                 <div id="context">
-                    <span class="b-title">华领为世界500强企业企业开展管理会计培训案例</span>
+                    <span class="b-title" style="color:#398BCA;">内训实例体现企业实力，因为专业，所以被认可！</span>
                     <img src="inner-img/section2/img-1.jpg" />
                     <span class="title">世界500强排名第17位</span>
                     <span class="text">全球汽车制造业领军企业、全球汽车企业中营业额排名第2、世界500强排名第17位</span>
