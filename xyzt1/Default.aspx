@@ -12,6 +12,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <script src="js/jquery.min.js"></script>
     <script src="js/Lunbo.js"></script>
+
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
     <div class="section-one">
@@ -1126,26 +1127,18 @@
             <span class="headerBottom">亲，我们都收到了，只愿不服青春不负卿</span>
         </div>
         <div>
-            <div style="text-align: center; margin-top: 30px; border: 0px solid red;">
-                <div class="wx-arrowprev" onclick="pre()"></div>
-                <div class="imgcontainer">
-                    <div id="img0" class="imgbox" style="margin-top: 40px; height: 300px;">
-                        <img src="img/wx1.jpg" style="height: 452px;" />
-                    </div>
-                    <div id="img1" class="imgbox" style="margin-left: -162px; margin-top: 20px; z-index: 888; position: relative;">
-                        <img src="img/wx2.jpg" style="height: 497px;" />
-                    </div>
-                    <div id="img2" class="imgbox" style="margin-left: -162px; z-index: 999; position: relative">
-                        <img src="img/wx4.jpg" style="height: 529px" />
-                    </div>
-                    <div id="img3" class="imgbox" style="margin-left: -162px; margin-top: 20px; z-index: 888; position: relative">
-                        <img src="img/wx3.jpg" style="height: 497px;" />
-                    </div>
-                    <div id="img4" class="imgbox" style="margin-left: -162px; margin-top: 40px;">
-                        <img src="img/wx5.jpg" style="height: 452px;" />
-                    </div>
+            <div style="text-align: center; margin-top: -30px; border: 0px solid red;">
+                <div class="wx-arrowprev" id="wx-arrowprev"></div>
+                <div class="imgcontainer" id="pic">
+                    <ul>		
+		                <li class="pic2"><a ><img src="img/wx1.jpg" /></a></li>
+		                <li class="pic3"><a ><img src="img/wx2.jpg" /></a></li>
+		                <li class="pic4"><a ><img src="img/wx3.jpg" /></a></li>
+		                <li class="pic5"><a ><img src="img/wx4.jpg" /></a></li>
+		                <li class="pic6"><a ><img src="img/wx5.jpg" /></a></li>		
+	                </ul>
                 </div>
-                <div class="wx-arrownext" onclick="next()"></div>
+                <div class="wx-arrownext" id="wx-arrownext"></div>
             </div>
         </div>
     </section>
@@ -1270,6 +1263,7 @@
         </div>
     </section>
 
+    <script type="text/javascript" src="js/move3.js"></script>
     <script type="text/javascript">
         $(function () {
             //var unslider = $('.banner').unslider();
@@ -1319,6 +1313,67 @@
             for (var i = 0; i < arrt.length; i++) {
                 $("#img" + i).find('img').attr("src", arrt[i]);
             }
+        }
+
+       
+            var oPic = document.getElementById('pic');
+            var oPrev = document.getElementById('wx-arrowprev');
+            var oNext = document.getElementById('wx-arrownext');
+            
+
+            var aLi = oPic.getElementsByTagName('li');
+
+            var arr = [];
+
+            for (var i = 0; i < aLi.length; i++) {
+                var oImg = aLi[i].getElementsByTagName('img')[0];
+
+                arr.push([parseInt(getStyle(aLi[i], 'left')), parseInt(getStyle(aLi[i], 'top')),
+                          getStyle(aLi[i], 'zIndex'), oImg.width, parseFloat(getStyle(aLi[i], 'opacity') * 100)]);
+            }
+
+
+            oPrev.onclick = function () {
+                arr.push(arr[0]);
+                arr.shift();
+                for (var i = 0; i < aLi.length; i++) {
+                    var oImg = aLi[i].getElementsByTagName('img')[0];
+
+                    aLi[i].style.zIndex = arr[i][2];
+                    startMove(aLi[i], { left: arr[i][0], top: arr[i][1], opacity: arr[i][4] });
+                    startMove(oImg, { width: arr[i][3] });
+                }
+
+            }
+
+            oNext.onclick = function () {
+                arr.unshift(arr[arr.length - 1]);
+                arr.pop();
+                for (var i = 0; i < aLi.length; i++) {
+                    var oImg = aLi[i].getElementsByTagName('img')[0];
+
+                    aLi[i].style.zIndex = arr[i][2];
+                    startMove(aLi[i], { left: arr[i][0], top: arr[i][1], opacity: arr[i][4] });
+                    startMove(oImg, { width: arr[i][3] });
+                }
+            }
+
+            function getStyle(obj, name) {
+                if (obj.currentStyle) { return obj.currentStyle[name]; }
+                else { return getComputedStyle(obj, false)[name]; }
+            }
+        
+
+        function getByClass(oParent, sClass) {
+            var aResult = [];
+            var aEle = oParent.getElementsByTagName('*');
+
+            for (var i = 0; i < aEle.length; i++) {
+                if (aEle[i].className == sClass) {
+                    aResult.push(aEle[i]);
+                }
+            }
+            return aResult;
         }
 
     </script>
