@@ -375,7 +375,7 @@
                 中文CMA十周年之际，华领国际再次更新CMA课程体系，发布了基于IMA定义的“管理会计能力素质框架”研发设计的阶梯式CMA教学体系“CMA6级赋能教学体系”。
             </p>
             <p style="text-align: center; padding-top: 20px;">
-                <img src="img/jinzita.jpg" width="800" />
+                <img src="img/jinzita2.jpg" width="800" />
             </p>
         </div>
     </section>
