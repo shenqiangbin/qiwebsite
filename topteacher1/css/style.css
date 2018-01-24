@@ -19,7 +19,7 @@
         height: 114px;
         border: 0px solid green;
         background: url('../img/1/word.png') no-repeat;
-        background-position-y:bottom;
+        background-position-y: bottom;
     }
 
     .section1 .s1content {
@@ -33,11 +33,12 @@
 
         .section1 .s1content div {
             display: inline-block;
-            vertical-align:top;
+            vertical-align: top;
         }
-        .section1 .s1content div:last-child {
-            padding-left:50px;
-        }
+
+            .section1 .s1content div:last-child {
+                padding-left: 50px;
+            }
 
         .section1 .s1content ul {
             list-style-image: url('../img/1/lipre.png');
@@ -47,3 +48,225 @@
             .section1 .s1content ul li {
                 padding-left: 10px;
             }
+
+.section2 {
+    width: 100%;
+    height: 236px;
+    background: url('../img/2/bg.jpg');
+    padding-top: 40px;
+    /*background-size: 100% 100%;*/
+}
+
+    .section2 .s2top {
+        width: 400px;
+        height: 70px;
+        margin: 0 auto;
+        border: 0px solid yellow;
+        font-size: 23px;
+        color: white;
+        text-align: center;
+        background: url('../img/2/wordline.png') no-repeat;
+        background-position-x: center;
+        background-position-y: 36px;
+    }
+
+    .section2 .s2bottom {
+        width: 973px;
+        height: 66px;
+        margin: 0 auto;
+        margin-top: 35px;
+        text-align: center;
+        font-size: 16px;
+        color: white;
+    }
+
+.section3 {
+    width: 100%;
+    height: 680px;
+    /*background-size: 100% 100%;*/
+    background: url('../img/3/bg.jpg') no-repeat;
+    background-position-x: center;
+    background-position-y: 36px;
+}
+
+    .section3 .arrownext {
+        width: 108px;
+        height: 39px;
+        margin: 0 auto;
+        border: 0px solid red;
+        background: url('../img/3/arrownext.jpg') no-repeat;
+    }
+
+.section4 {
+    width: 100%;
+    height: 744px;
+    /*background-size:100% 100%;*/
+}
+
+    .box {
+        width: 1440px;
+        height: 786px;
+        margin: 0 auto;
+        background: url('../img/4/bg.jpg') no-repeat;
+        background-position: center;
+        border: 0px solid red;
+    }
+
+    .boxcontent {
+        width: 100%;
+        height: 786px;
+        background: url('../img/4/teacher.png') no-repeat;
+        padding-top: 407px;
+        /*background-position-x: center;*/
+        /*background-position-y: 36px;*/
+    }
+
+     .colBox {
+        width: 1034px;
+        height: 245px;
+        margin: 0 auto;
+        border: 0px solid red;
+        color: white;
+        text-align: justify;
+    }
+
+         .pindent {
+            text-indent: 2em;
+        }
+
+         .colBox h4 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+     .col1 {        
+        width: 204px;
+        margin-right:15px;
+        display:inline-block;
+        border: 0px solid red;
+        padding: 18px;
+        vertical-align:top;
+    }
+
+     .col2 {
+        display:inline-block;       
+        width: 204px;
+        margin-right: 23px;
+        border: 0px solid red;
+        padding: 18px;
+        vertical-align:top;
+    }
+
+     .col3 {        
+        display:inline-block;
+        width: 204px;
+        margin-right: 24px;
+        border: 0px solid red;
+        padding: 18px;
+        vertical-align:top;
+    }
+
+     .col4 {
+        display:inline-block;
+        width: 204px;
+        border: 0px solid red;
+        padding: 18px;
+        vertical-align:top;
+    }
+
+
+
+.section5 {
+    width: 100%;
+    height: 335px;
+    
+    background: url('../img/5/bg.png') no-repeat;
+    background-position-x: center;
+    background-position-y: 36px;
+
+    padding-top: 382px;
+}
+
+        .specialColBox p {           
+            color:black;
+        }
+
+        .specialColBox h4 {
+            color:#66D1D5;
+        }
+
+.section6 {
+    width: 100%;
+    height: 744px;
+    /*background-size:100% 100%;*/
+}
+
+.section6 .box{
+    background: url('../img/6/bg.jpg') no-repeat;
+}
+
+    .section6 .boxcontent {
+        background: url('../img/6/teacher.png') no-repeat;
+    }
+
+.section7 {
+    width: 100%;
+    height: 335px;
+    
+    background: url('../img/7/bg.png') no-repeat;
+    background-position-x: center;
+    background-position-y: 36px;
+
+    padding-top: 382px;
+}
+
+
+.section8 {
+    width: 100%;
+    height: 744px;
+    /*background-size:100% 100%;*/
+}
+
+.section8 .box{
+    background: url('../img/8/bg.jpg') no-repeat;
+}
+
+    .section8 .boxcontent {
+        background: url('../img/8/teacher.png') no-repeat;
+    }
+
+.section9 {
+    width: 100%;
+    height: 335px;
+    
+    background: url('../img/9/bg.png') no-repeat;
+    background-position-x: center;
+    background-position-y: 36px;
+
+    padding-top: 382px;
+}
+
+.section10 {
+    width: 100%;
+    height: 744px;
+    /*background-size:100% 100%;*/
+}
+
+.section10 .box{
+    background: url('../img/10/bg.jpg') no-repeat;
+}
+
+    .section10 .boxcontent {
+        background: url('../img/10/teacher.png') no-repeat;
+    }
+
+.section11 {
+    width: 100%;
+    height: 335px;
+    
+    background: url('../img/11/bg.png') no-repeat;
+    background-position-x: center;
+    background-position-y: 36px;
+
+    padding-top: 382px;
+}
