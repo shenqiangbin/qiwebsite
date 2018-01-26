@@ -480,6 +480,94 @@
         </div>
     </section>
 
+    <section class="section8">
+        <div class="boxheader">
+            <img src="img/headerimg.png" width="35" />
+            <div class="headerMiddle">
+                <img src="img/wordleft.png" width="192" />
+                <span>华领学霸来了</span>
+                <img src="img/wordleft.png" width="192" />
+            </div>
+        </div>
+        <div class="contentBox">
+            <img src="img/section8-1.png"/>
+            <img src="img/section8-2.png"/>
+            <img src="img/section8-3.png"/>
+        </div>
+    </section>
+
+    <section class="section9">
+        <%--<div class="boxheader">
+            <img src="img/headerimg.png" width="35" />
+            <div class="headerMiddle">
+                <img src="img/wordleft.png" width="192" />
+                <span>华领学员分享</span>
+                <img src="img/wordleft.png" width="192" />
+            </div>
+        </div>--%>     
+        <div class="section9header">
+            <img src="img/section9-header.png"  />
+        </div>
+        <div class="contentBox">
+            <div class="box1">                
+                    <div>华领妈妈学员通过CMA的考试秘籍</div>
+                    <div>我为什么学习CMA？</div>
+                    <div>CMA让我开阔了职业生涯的视野</div>
+                    <div>CMA让我摆脱了沉闷枯燥的财务视角</div>
+            </div>
+            <div class="box2"></div>
+            <div class="box3">
+                <div>CMA让我对财务报表分析的更透彻</div>
+                <div>投行新人毕业就考CMA</div>
+                <div>华领妈妈学员一次通过2门CMA考试</div>
+                <div>央企老员工也要为CMA证书搏一次</div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="section10">
+        <div class="boxheader">
+            <img src="img/headerimg.png" width="35" />
+            <div class="headerMiddle">
+                <img src="img/wordleft.png" width="192" />
+                <span>企业精英推荐</span>
+                <img src="img/wordleft.png" width="192" />
+            </div>
+        </div>    
+        <div class="personContent">
+            <div class="personbox">
+                <img src="img/section10-person1.png" />
+                <div>力拓集团中国区<br />首席经济顾问陈泽晖</div>
+            </div>  
+            <div class="personbox">
+                <img src="img/section10-person2.png" />
+                <div>毕马威企业咨询（中国）<br />有限公司管理咨询总监李建维</div>
+            </div>  
+            <div class="personbox">
+                <img src="img/section10-person3.png" />
+                <div>国药控股分销中心<br />有限公司财务总监吴轶伦</div>
+            </div>  
+            <div class="personbox">
+                <img src="img/section10-person4.png" />
+                <div>中国远大集团财务管理<br />总部副总经理于滟</div>
+            </div>  
+            <div class="personbox">
+                <img src="img/section10-person5.png" />
+                <div>海通证券投资<br />银行部副总裁姚立</div>
+            </div>  
+            <div class="personbox">
+                <img src="img/section10-person6.png" />
+                <div>腾讯公司财务共享<br />服务部副总经理李慧敏</div>
+            </div>            
+        </div> 
+        <div class="more">
+            <a href="#" target="_blank">
+                <img src="img/section10-more.png"/>
+            </a>
+        </div>   
+    </section>
+
     <script type="text/javascript" src="js/move3.js"></script>
     <script type="text/javascript">
         $(function () {

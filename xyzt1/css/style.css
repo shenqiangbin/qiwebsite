@@ -10,7 +10,7 @@
 .boxheader{margin:0 auto;border:0px solid red;text-align:center;}
 .headerMiddle{margin:0 auto;text-align:center;}
 .headerMiddle img{vertical-align:middle;margin-top: -10px;}
-.headerMiddle span{font-size:24px;margin:0 10px;letter-spacing:2px;}
+.headerMiddle span{font-size:27px;margin:0 10px;letter-spacing:2px;}
 .headerBottom{font-size: 18px; color: #838381; letter-spacing: 2px;}
 
 .section-two .box {
@@ -263,7 +263,97 @@ div.wx-arrownext {
     background-size: 100%;
 }
 
+.section8{
+    height:451px;
+    padding-top:61px;
+    background-color:#F0F0E6;    
+}
+    .section8 .contentBox{
+        text-align: center;
+        padding-top: 54px;
+        letter-spacing: 34px;
+    }
 
+.section9{
+    height:363px;
+    padding-top:61px;
+    background:url(../img/section9-bg.png);
+    background-size:cover;
+}
+.section9header{
+    text-align:center;
+}
+.section9 .contentBox{
+    width:1211px;
+    height:402px;
+    margin:0 auto;
+    border:0px solid red;
+
+    padding-top:40px;
+}
+    .section9 .contentBox .box1{
+         height:300px;
+         width:49%;
+         vertical-align:top;
+         display:inline-block;
+         border:0px solid blue;
+         text-align:center;
+    }
+    .section9 .contentBox .box2 {
+        height:174px;
+        width:4px;
+        margin-left:5px;
+        margin-bottom:29px;
+        display:inline-block;
+        background-color:white;
+        border-radius: 5px;        
+    }
+    .section9 .contentBox .box3 {
+        height:300px;
+        width:49%;
+        vertical-align:top;
+        display:inline-block;
+        border:0px solid blue;
+         text-align:center;
+    }
+
+    .section9 .contentBox .box1 div,.section9 .contentBox .box3 div{
+        height:45px;        
+        letter-spacing:2px;
+        font-size:20px;
+        color:white;
+    }
+    .section9 .contentBox .box1 div{
+        padding-left:143px;
+    }
+    .section9 .contentBox .box3 div{
+        padding-left:77px;
+    }
+
+.section10{
+    height:464px;
+    padding-top:61px;
+    background-color:white;   
+}
+.section10 .personContent{
+    text-align:center;
+    margin-top: 30px;
+}
+.section10 .personbox{
+    width: 185px;
+    border: 0px solid red;
+    display:inline-block;
+    text-align:center;
+}
+.section10 .personbox div{
+    margin-top:13px;
+    text-align:center;
+    font-size:14px;
+}
+.section10 .more{
+    text-align: center;
+    margin-top: 43px;
+}
 
 #pic{position:relative;overflow:hidden;height:900px;width:890px;z-index:2;margin:0 auto 100px ;}
 #pic ul{width:100%;height:100%;position:absolute;top:0;left:0;}
