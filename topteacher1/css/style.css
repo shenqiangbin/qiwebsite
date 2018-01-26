@@ -138,6 +138,9 @@
             text-align: center;
             margin-bottom: 20px;
         }
+.colBox p {
+    text-align:justify;
+}
 
      .col1 {        
         width: 204px;
@@ -189,6 +192,7 @@
 
         .specialColBox p {           
             color:black;
+            text-align:justify;
         }
 
         .specialColBox h4 {
