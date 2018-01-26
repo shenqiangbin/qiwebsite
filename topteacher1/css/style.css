@@ -1,4 +1,5 @@
-﻿.section1 {
+﻿
+.section1 {
     width: 100%;
     height: 400px;
     padding-top: 20px;
@@ -104,7 +105,6 @@
 }
 
     .box {
-        width: 1440px;
         height: 786px;
         margin: 0 auto;
         background: url('../img/4/bg.jpg') no-repeat;
@@ -117,7 +117,7 @@
         height: 786px;
         background: url('../img/4/teacher.png') no-repeat;
         padding-top: 407px;
-        /*background-position-x: center;*/
+        background-position-x: center;
         /*background-position-y: 36px;*/
     }
 
@@ -203,10 +203,12 @@
 
 .section6 .box{
     background: url('../img/6/bg.jpg') no-repeat;
+    background-position-x: center;
 }
 
     .section6 .boxcontent {
         background: url('../img/6/teacher.png') no-repeat;
+        background-position-x: center;
     }
 
 .section7 {
@@ -229,10 +231,12 @@
 
 .section8 .box{
     background: url('../img/8/bg.jpg') no-repeat;
+    background-position-x: center;
 }
 
     .section8 .boxcontent {
         background: url('../img/8/teacher.png') no-repeat;
+        background-position-x: center;
     }
 
 .section9 {
@@ -254,10 +258,12 @@
 
 .section10 .box{
     background: url('../img/10/bg.jpg') no-repeat;
+    background-position-x: center;
 }
 
     .section10 .boxcontent {
         background: url('../img/10/teacher.png') no-repeat;
+        background-position-x: center;
     }
 
 .section11 {
