@@ -10,6 +10,7 @@
     <title>CMA培训,CMA考试,CMA认证-华领教育</title>
     <link rel="stylesheet" type="text/css" href="css/reset.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/swiper-3.4.2.min.css" />
 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -33,7 +34,7 @@
     <div class="section2">
         <h4>管理会计师职业能力框架</h4>
         <p>由IMA定义的管理会计能力框架涵盖了每个管理会计师所需要具备的核心能力</p>
-        <img src="img/section2bg.png" width="544" />
+        <img src="img/section2-bgg.png" />
         <div class="desc">
             美国管理会计师协会（IMA）发布的《管理会计能力素质框架》，从规划及报告、财务决策、信息技术、业务运营<br />
             和领导力建设 <span class="special">5</span> 个模块的 <span class="special">28</span> 个能力素质，详细定义了管理会计的具体能力素质要求。 
@@ -45,7 +46,15 @@
         <h4>CMA<span class="special">6</span>级赋能教学体系</h4>
         <p>华领国际依托专注的教学研发及专家团队，基于《管理会计能力素质框架》，对CMA教学体系进行重构，</p>
         <p>正式推出“<span>CMA 6级赋能教学体系</span>”。</p>
-        <img src="img/section2bg.png" width="544" />
+        <img src="img/section3bg.png"/>
+        <div class="picDesc">
+            <span>补充学员基础知识的不足，使学员能够快速进入CMA专业课学习状态。</span>
+            <span>严格依据CMA考试大纲设计，原创研发“双师一贯制网课”和“碎片化系统网课”。</span>
+            <span>严格依据CMA考试大纲设计，原创研发“双师一贯制网课”和“碎片化系统网课”。</span>
+            <span>严格依据CMA考试大纲设计，原创研发“双师一贯制网课”和“碎片化系统网课”。</span>
+            <span>严格依据CMA考试大纲设计，原创研发“双师一贯制网课”和“碎片化系统网课”。</span>
+            <span>严格依据CMA考试大纲设计，原创研发“双师一贯制网课”和“碎片化系统网课”。</span>
+        </div>
         <br />
         <a href="#" class="yellowa">获取《CMA 6级赋能教学体系》简章</a>
     </div>
@@ -58,7 +67,125 @@
     </div>
 
     <div class="section5">
-        人物介绍
+        <div class="container">
+            <div class="expert swiper-container">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="img/section8/e1-img.jpg" />
+                        <div class="imgleft">
+                            <div class="icons left"></div>
+                        </div>
+                        <div class="info">
+                            <span class="name">于增彪　教授</span>
+                            <span class="lable">华领特邀财务管理专家</span>
+                            <p class="context">
+                                国家财政部管理会计咨询专家<br />
+                                清华大学经管学院会计学教授、博导
+									<br />
+                                会计学博士、中国注册会计师
+									<br />
+                                全国先进会计工作者
+									<br />
+                                中国会计学会管理会计专业委员会副主任委员
+									<br />
+                                美国IMA Educational Case Journal编委和审稿人
+                            </p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/section8/e2-img.jpg" />
+                        <div class="imgleft">
+                            <div class="icons left"></div>
+                        </div>
+                        <div class="info">
+                            <span class="name">王景江　教授</span>
+                            <span class="lable">华领特邀财务管理专家</span>
+                            <p class="context">
+                                国家会计学院、清华大学、北京大学、上海交大、浙江大学、中山大学、四川大学、武汉<br />
+                                大学等院校客座教授
+									<br />
+                                国资委职业经理中心特约培训师
+									<br />
+                                我国最早加盟国际四大会计公司从事管理咨询的专家之一
+                            </p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/section8/e3-img.jpg" />
+                        <div class="imgleft">
+                            <div class="icons left"></div>
+                        </div>
+                        <div class="info">
+                            <span class="name">李洪波　教授</span>
+                            <span class="lable">管理会计大师课讲师</span>
+                            <p class="context">
+                                远洋地产执行董事<br />
+                                董事局投资委员会委员及副总裁
+									<br />
+                                财务管理中心总经理
+                            </p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/section8/e4-img.jpg" />
+                        <div class="imgleft">
+                            <div class="icons left"></div>
+                        </div>
+                        <div class="info">
+                            <span class="name">刘学锋</span>
+                            <span class="lable">管理会计大师课讲师</span>
+                            <p class="context">
+                                二十多年世界500强企业财务总监<br />
+                                纽约州立大学布法罗管理学院工商管理硕士学位
+                            </p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/section8/e5-img.jpg" />
+                        <div class="imgleft">
+                            <div class="icons left"></div>
+                        </div>
+                        <div class="info">
+                            <span class="name">陶　伟</span>
+                            <span class="lable">管理会计大师课讲师</span>
+                            <p class="context">
+                                安徽江淮汽车集团股份有限公司财务总监
+                            </p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/section8/e6-img.jpg" />
+                        <div class="imgleft">
+                            <div class="icons left"></div>
+                        </div>
+                        <div class="info">
+                            <span class="name">许建胜</span>
+                            <span class="lable">管理会计大师课讲师</span>
+                            <p class="context">
+                                安徽省盐业总公司总会计师<br />
+                                安徽省总会计师协会副会长
+                            </p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="img/section8/e7-img.jpg" />
+                        <div class="imgleft">
+                            <div class="icons left"></div>
+                        </div>
+                        <div class="info">
+                            <span class="name">白俊江</span>
+                            <span class="lable">管理会计大师课讲师</span>
+                            <p class="context">
+                                IMA亚太区总监中国区首席代表<br />
+                                多家外资企业高管工作经历
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+            <a class="btn-green">了解师资详情</a>
+        </div>
     </div>
 
     <div class="section6">
@@ -79,6 +206,7 @@ IMA在全球140个国家、360余个专业分会和学生分会中已拥有超�
     <div style="height: 300px;">
     </div>
 
+    <script src="swiper.js"></script>
     <script type="text/javascript">
         //$(function () {});
     </script>
