@@ -536,33 +536,45 @@
             </div>
         </div>    
         <div class="personContent">
-            <div class="personbox">
-                <img src="img/section10-person1.png" />
-                <div>力拓集团中国区<br />首席经济顾问陈泽晖</div>
+            <div class="personbox">                
+               <a href="http://www.hualingedu.com/feeldetail/1610.html" target="_blank">
+                    <img src="img/section10-person1.png" />
+                    <div>力拓集团中国区<br />首席经济顾问陈泽晖</div>
+               </a>                
             </div>  
             <div class="personbox">
-                <img src="img/section10-person2.png" />
-                <div>毕马威企业咨询（中国）<br />有限公司管理咨询总监李建维</div>
+                <a href="http://www.hualingedu.com/feeldetail/1615.html" target="_blank">
+                    <img src="img/section10-person2.png" />
+                    <div>毕马威企业咨询（中国）<br />有限公司管理咨询总监李建维</div>
+                </a>
             </div>  
             <div class="personbox">
-                <img src="img/section10-person3.png" />
-                <div>国药控股分销中心<br />有限公司财务总监吴轶伦</div>
+                <a href="http://www.hualingedu.com/feeldetail/1614.html" target="_blank">
+                    <img src="img/section10-person3.png" />
+                    <div>国药控股分销中心<br />有限公司财务总监吴轶伦</div>
+                </a>
             </div>  
             <div class="personbox">
-                <img src="img/section10-person4.png" />
-                <div>中国远大集团财务管理<br />总部副总经理于滟</div>
+                <a href="http://www.hualingedu.com/feeldetail/1611.html" target="_blank">
+                    <img src="img/section10-person4.png" />
+                    <div>中国远大集团财务管理<br />总部副总经理于滟</div>
+                </a>                
             </div>  
             <div class="personbox">
-                <img src="img/section10-person5.png" />
-                <div>海通证券投资<br />银行部副总裁姚立</div>
+                 <a href="http://www.hualingedu.com/feeldetail/1613.html" target="_blank">
+                    <img src="img/section10-person5.png" />
+                    <div>海通证券投资<br />银行部副总裁姚立</div>
+                 </a>
             </div>  
             <div class="personbox">
-                <img src="img/section10-person6.png" />
-                <div>腾讯公司财务共享<br />服务部副总经理李慧敏</div>
+                <a href="http://www.hualingedu.com/feeldetail/1612.html" target="_blank">
+                    <img src="img/section10-person6.png" />
+                    <div>腾讯公司财务共享<br />服务部副总经理李慧敏</div>
+                </a>
             </div>            
         </div> 
         <div class="more">
-            <a href="#" target="_blank">
+            <a href="https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn" target="_blank">
                 <img src="img/section10-more.png"/>
             </a>
         </div>   

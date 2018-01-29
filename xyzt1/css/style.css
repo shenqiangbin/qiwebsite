@@ -349,6 +349,13 @@ div.wx-arrownext {
     margin-top:13px;
     text-align:center;
     font-size:14px;
+    color:black;
+}
+.section10 .personbox a{
+    text-decoration:none;
+}
+.section10 .personbox a:hover{
+    text-decoration:none;
 }
 .section10 .more{
     text-align: center;
