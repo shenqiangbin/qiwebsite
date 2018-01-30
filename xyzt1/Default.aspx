@@ -490,9 +490,15 @@
             </div>
         </div>
         <div class="contentBox">
-            <img src="img/section8-1.png"/>
-            <img src="img/section8-2.png"/>
-            <img src="img/section8-3.png"/>
+            <a href="http://www.hualingedu.com/feeldetail/595.html" target="_blank">
+                <img src="img/section8-1.png"/>
+            </a>
+            <a href="http://www.hualingedu.com/feeldetail/925.html" target="_blank">
+                <img src="img/section8-2.png"/>
+            </a>
+            <a href="http://www.hualingedu.com/feeldetail/606.html" target="_blank">
+                <img src="img/section8-3.png"/>
+            </a>
         </div>
     </section>
 
@@ -510,17 +516,17 @@
         </div>
         <div class="contentBox">
             <div class="box1">                
-                    <div>华领妈妈学员通过CMA的考试秘籍</div>
-                    <div>我为什么学习CMA？</div>
-                    <div>CMA让我开阔了职业生涯的视野</div>
-                    <div>CMA让我摆脱了沉闷枯燥的财务视角</div>
+                    <div><a href='http://www.hualingedu.com/feeldetail/670.html' target='_blank'>华领妈妈学员通过CMA的考试秘籍</a></div>
+                    <div><a href='http://www.hualingedu.com/feeldetail/870.html' target='_blank'>我为什么学习CMA？</a></div>
+                    <div><a href='http://www.hualingedu.com/feeldetail/923.html' target='_blank'>CMA让我开阔了职业生涯的视野</a></div>
+                    <div><a href='http://www.hualingedu.com/feeldetail/924.html' target='_blank'>CMA让我摆脱了沉闷枯燥的财务视角</a></div>
             </div>
             <div class="box2"></div>
             <div class="box3">
-                <div>CMA让我对财务报表分析的更透彻</div>
-                <div>投行新人毕业就考CMA</div>
-                <div>华领妈妈学员一次通过2门CMA考试</div>
-                <div>央企老员工也要为CMA证书搏一次</div>
+                <div><a href='http://www.hualingedu.com/feeldetail/669.html' target='_blank'>CMA让我对财务报表分析的更透彻</a></div>
+                <div><a href='http://www.hualingedu.com/feeldetail/985.html' target='_blank'>投行新人毕业就考CMA</a></div>
+                <div><a href='http://www.hualingedu.com/feeldetail/1584.html' target='_blank'>华领妈妈学员一次通过2门CMA考试</a></div>
+                <div><a href='http://www.hualingedu.com/feeldetail/848.html' target='_blank'>央企老员工也要为CMA证书搏一次</a></div>
             </div>
         </div>
     </section>
