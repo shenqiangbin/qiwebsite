@@ -273,6 +273,9 @@ div.wx-arrownext {
         padding-top: 54px;
         letter-spacing: 34px;
     }
+        .section8 .contentBox a,.section8 .contentBox a:hover {
+            text-decoration:none;
+        }
 
 .section9{
     height:363px;
@@ -284,6 +287,7 @@ div.wx-arrownext {
     text-align:center;
 }
 .section9 .contentBox{
+    font-family: 黑体;
     width:1211px;
     height:402px;
     margin:0 auto;
@@ -291,6 +295,7 @@ div.wx-arrownext {
 
     padding-top:40px;
 }
+
     .section9 .contentBox .box1{
          height:300px;
          width:49%;
@@ -321,7 +326,10 @@ div.wx-arrownext {
         height:45px;        
         letter-spacing:2px;
         font-size:20px;
+    }
+    .section9 .contentBox a,.section9 .contentBox a:hover{
         color:white;
+        text-decoration:none;
     }
     .section9 .contentBox .box1 div{
         padding-left:143px;
