@@ -180,7 +180,7 @@
     }
 
 .section5 {
-    height: 400px;
+    height: 474px;
 }
 
 .container {
@@ -315,31 +315,55 @@
             background-image: url(../img/section8/bullet7.png);
         }
 
+.section5 #leftBtn{
+    position: absolute;
+    top: 307px;
+    left: 501px;
+    height: 72px;
+    display: inline-block;
+    width: 28px;
+    background-color: red;
+    z-index: 999;
+}
 
 
 .section6 {
     background-color: #F2F3F7;
-    height: 492px;
+    height: 523px;
 }
 
     .section6 .container {
-        width: 1000px;
+        width: 1092px;
         padding-top: 24px;
         margin: 0 auto;
     }
 
     .section6 h4 {
-        font-size: 27px;
+        font-size: 36px;
         font-weight: bold;
         color: #01498F;
+        font-family: 黑体;
     }
 
     .section6 p {
+        font-family: 黑体;
         width: 50%;
         float: left;
-        font-size: 14px;
+        font-size: 16px;
+        text-align: justify;
     }
 
     .section6 img {
         float: right;
     }
+
+    .section6 .container span.line{
+        display:block;
+        margin: 20px 0px;
+        border: 1px dotted #4077A9;        
+    }
+
+.section6 .yellowa{
+    margin:30px 0px;
+    border-radius: 21px;
+}
