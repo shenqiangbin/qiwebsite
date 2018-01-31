@@ -47,7 +47,7 @@
         <h4>CMA<span class="special">6</span>级赋能教学体系</h4>
         <p>华领国际依托专注的教学研发及专家团队，基于《管理会计能力素质框架》，对CMA教学体系进行重构，</p>
         <p>正式推出“<span>CMA 6级赋能教学体系</span>”。</p>
-        <img src="img/section3bg.png"/>
+        <img src="img/section3bg.png" />
         <div class="picDesc">
             <span>补充学员基础知识的不足，使学员能够快速进入CMA专业课学习状态。</span>
             <span>严格依据CMA考试大纲设计，原创研发“双师一贯制网课”和“碎片化系统网课”。</span>
@@ -116,7 +116,7 @@
                             <span class="name">薛贵</span>
                             <span class="lable">华领特邀财务管理专家</span>
                             <p class="context">
-                               财政部管理会计咨询专家<br />
+                                财政部管理会计咨询专家<br />
                                 财政部内部控制咨询专家<br />
                                 全国会计领军人才<br />
                                 大唐电信原CFO<br />
@@ -166,9 +166,12 @@
                             <span class="lable">管理会计大师课讲师</span>
                             <p class="context">
                                 美国注册管理会计师（CMA）<br />
-                                IMA教育指导委员会认证讲师 <br />
-                                国际大数据协会数据分析专家 <br />
-                                对外经贸大学校外导师 <br />
+                                IMA教育指导委员会认证讲师
+                                <br />
+                                国际大数据协会数据分析专家
+                                <br />
+                                对外经贸大学校外导师
+                                <br />
                             </p>
                         </div>
                     </div>
@@ -181,7 +184,7 @@
                             <span class="name">孙韵</span>
                             <span class="lable">管理会计大师课讲师</span>
                             <p class="context">
-                               美国注册管理会计师（CMA）<br />
+                                美国注册管理会计师（CMA）<br />
                                 清华大学MBA<br />
                                 拜耳（中国）共享服务高级顾问<br />
                                 中石化、航天科工、中船工业共享服务专家顾问<br />
@@ -197,8 +200,9 @@
                             <span class="name">李强</span>
                             <span class="lable">管理会计大师课讲师</span>
                             <p class="context">
-                               美国注册管理会计师（CMA）<br />
-                                加拿大Laurentian MBA <br />
+                                美国注册管理会计师（CMA）<br />
+                                加拿大Laurentian MBA
+                                <br />
                                 瑞士莱姆电子及伊莱克斯前CFO
                             </p>
                         </div>
@@ -212,7 +216,7 @@
                             <span class="name">孙佳琪</span>
                             <span class="lable">管理会计大师课讲师</span>
                             <p class="context">
-                               加拿大注册会计师<br />
+                                加拿大注册会计师<br />
                                 美国注册管理会计师（CMA）<br />
                                 某跨国集团公司CFO<br />
                             </p>
@@ -227,12 +231,12 @@
                             <span class="name">刘金秀</span>
                             <span class="lable">管理会计大师课讲师</span>
                             <p class="context">
-                               美国注册管理会计师（CMA）<br />
+                                美国注册管理会计师（CMA）<br />
                                 中华财务咨询公司董事、CFO<br />
                                 北京理工大学MPAcc校外导师
                             </p>
                         </div>
-                    </div>                   
+                    </div>
                     <div class="swiper-slide">
                         <img src="img/section8/e4-img.jpg" />
                         <div class="imgleft">
@@ -242,13 +246,13 @@
                             <span class="name">杨民</span>
                             <span class="lable">管理会计大师课讲师</span>
                             <p class="context">
-                               CMA、AICPA、MBA<br />
-国资委央企CMA班首席讲师<br />
-北京国家会计学院客座讲师<br />
-IMA师资培训班讲师<br />
-CMA全球高分奖获得者<br />
-具备二十年以上500强企业总监工作经验<br />
-平安集团、中国兵器集团、惠普公司、中国核电、戴姆勒等多家500强企业培训师。
+                                CMA、AICPA、MBA<br />
+                                国资委央企CMA班首席讲师<br />
+                                北京国家会计学院客座讲师<br />
+                                IMA师资培训班讲师<br />
+                                CMA全球高分奖获得者<br />
+                                具备二十年以上500强企业总监工作经验<br />
+                                平安集团、中国兵器集团、惠普公司、中国核电、戴姆勒等多家500强企业培训师。
 
                             </p>
                         </div>
@@ -262,10 +266,12 @@ CMA全球高分奖获得者<br />
                             <span class="name">张岩</span>
                             <span class="lable">管理会计大师课讲师</span>
                             <p class="context">
-美国注册管理会计师（CMA）<br />
-国资委央企CMA班金牌讲师 <br />
-北京国家会计学院客座讲师 <br />
-先后任职于摩托罗拉、康明斯等知名企业并任高级财务分析师
+                                美国注册管理会计师（CMA）<br />
+                                国资委央企CMA班金牌讲师
+                                <br />
+                                北京国家会计学院客座讲师
+                                <br />
+                                先后任职于摩托罗拉、康明斯等知名企业并任高级财务分析师
 
                             </p>
                         </div>
@@ -279,11 +285,11 @@ CMA全球高分奖获得者<br />
                             <span class="name">施宇青</span>
                             <span class="lable">管理会计大师课讲师</span>
                             <p class="context">
-美国注册管理会计师（CMA）<br />
-中国高级会计师<br />
-注册会计师（CICPA）<br />
-注册税务师（CTA）<br />
-任职某大型企业CFO<br />
+                                美国注册管理会计师（CMA）<br />
+                                中国高级会计师<br />
+                                注册会计师（CICPA）<br />
+                                注册税务师（CTA）<br />
+                                任职某大型企业CFO<br />
                             </p>
                         </div>
                     </div>
@@ -296,18 +302,17 @@ CMA全球高分奖获得者<br />
                             <span class="name">李伟强</span>
                             <span class="lable">管理会计大师课讲师</span>
                             <p class="context">
-美国注册管理会计师（CMA）<br />
-国资委央企CMA班首席讲师<br />
-清华深圳研究院财务总监班讲师<br />
-中央财经大学、南开大学客座讲师<br />
-某一级央企审计部总经理<br />
+                                美国注册管理会计师（CMA）<br />
+                                国资委央企CMA班首席讲师<br />
+                                清华深圳研究院财务总监班讲师<br />
+                                中央财经大学、南开大学客座讲师<br />
+                                某一级央企审计部总经理<br />
                             </p>
                         </div>
                     </div>
                 </div>
-                <img id="leftBtn" src=""/>
+                <img id="leftBtn" src="" />
                 <div class="swiper-pagination swiper-containerp">
-                    
                 </div>
                 <span>优异</span>
             </div>
@@ -320,19 +325,34 @@ CMA全球高分奖获得者<br />
             <h4>什么是 CMA？</h4>
             <p>
                 美国管理会计师协会（The Institute of ManagementAccountants，简称IMA®）旗下的美国
-                <span style="color:#4077A9;">注册管理会计师（CertifiedManagement Accountant，简称CMA®）认证是对会计和财务人士的权威鉴定。</span>
+                <span style="color: #4077A9;">注册管理会计师（CertifiedManagement Accountant，简称CMA®）认证是对会计和财务人士的权威鉴定。</span>
                 CMA是美国财会领域的三大黄金认证之一，在全球范围内被企业财务高管所认可。CMA认证的优势不仅体现在薪酬方面，CMA持证者认为CMA为自己创造了更多的职业发展机会，强化了自己对整个业务领域的驾驭能力，并且提升了自己在薪资谈判中的地位。
 
                 <span class="line"></span>
 
-                <span style="color:#4077A9;">IMA®成立于1919年，是全球领先的国际管理会计师组织。</span>IMA®在全球140个国家、360余个专业分会和学生分会中已拥有超过90,000名会员，在中国拥有超过35,000余名CMA考生及持证者。
+                <span style="color: #4077A9;">IMA®成立于1919年，是全球领先的国际管理会计师组织。</span>IMA®在全球140个国家、360余个专业分会和学生分会中已拥有超过90,000名会员，在中国拥有超过35,000余名CMA考生及持证者。
             </p>
             <img src="img/section6_pic.png" />
-            <div style="clear: both;text-align: center;">
+            <div style="clear: both; text-align: center;">
                 <a href="https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn" target="_blank" class="yellowa">了解更多CMA</a>
             </div>
         </div>
-
+    </div>
+    <div class="section7">
+        <h4>国家政策支持CMA</h4>
+        <div class="line"></div>
+        <div class="imgbox">
+            <img id="1" src="img/2009-yellow.png"  />
+            <img id="2" src="img/2014-blue.png"  />
+            <img id="3" src="img/2016-blue.png"  />
+            <img id="4" src="img/2017-blue.png"  />
+        </div>
+        <div class="imgDesc">
+            <span id="imgdesc1" >中国财政部、人保部、商务部、国家外专局、科技部等16部委联合引进。</span>
+            <span id="imgdesc2" >国家财政部——《关于全面推进管理会计体系建设的指导意见》</span>
+            <span id="imgdesc3" >国家财政部——《会计改革与发展“十三五（2016-2020）”规划纲要》</span>
+            <span id="imgdesc4" >工信部财务司——《工业和通信业管理会计推广应用指导意见》</span>
+        </div>
     </div>
 
     <div style="height: 300px;">
@@ -344,18 +364,39 @@ CMA全球高分奖获得者<br />
 
         function section5_swiper() {
             var section5 = new Swiper('.expert.swiper-container', {
-                pagination :{
+                pagination: {
                     el: '.swiper-pagination',
-                    clickable :true,
+                    clickable: true,
                 },
                 speed: 1000,
-                effect: 'fade',              
+                effect: 'fade',
             });
             return section5;
         }
 
+        function section7F() {
+
+            $(".section7 .imgbox img").mouseenter(function () {
+                var id = $(this).attr("id");
+                var attr = $(this).attr('src');
+                $(this).attr('src', attr.replace('blue', 'yellow'));
+
+                //代做
+                $(this).siblings().each(function (ele) {
+                    var attr = $(ele).attr('src');
+                    $(ele).attr('src', attr.replace('yellow', 'blue'));
+                });
+
+                $("#imgdesc" + id).show().siblings().hide();
+            }).mouseleave(function () {
+                var id = $(this).attr("id");
+                //$("#imgdesc" + id).hide();
+            });
+        }
+
         $(function () {
             section5_swiper();
+            section7F();
         });
     </script>
 </asp:Content>
