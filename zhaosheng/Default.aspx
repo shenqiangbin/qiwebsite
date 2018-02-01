@@ -255,6 +255,33 @@
         </div>
     </div>
 
+    <div class="section8">
+        <h4>国家部委领导推荐CMA</h4>
+        <div class="line"></div>
+        <div class="imgBigBox">
+            <div class="imgbox">
+                <img src="img/p1.jpg"  />
+            </div>
+            <div class="imgbox">
+                <img src="img/p2.jpg"  />
+            </div>
+            <div class="imgbox">
+                <img src="img/p3.jpg"  />
+            </div>
+        </div>
+        <div class="imgBigBox">
+            <div class="imgbox">
+                <img src="img/p4.jpg"  />
+            </div>
+            <div class="imgbox">
+                <img src="img/p5.jpg"  />
+            </div>
+            <div class="imgbox">
+                <img src="img/p6.jpg"  />
+            </div>
+        </div>
+    </div>
+
     <div style="height: 300px;">
     </div>
 

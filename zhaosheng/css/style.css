@@ -377,6 +377,7 @@
 }
 
 .section7{
+    height: 377px;
     text-align:center;
 }
 
@@ -438,3 +439,40 @@
 }
 
     
+
+
+.section8{
+    background-color: #313C42;
+    text-align:center;
+    padding-top: 6px;
+}
+
+.section8 h4{
+    font-size: 34px;
+    font-weight: bold;
+    color:white;
+    margin-top: 26px;
+    margin-bottom: -3px;
+    letter-spacing: 5px;
+}
+
+.section8 .line{
+    display:inline-block;
+    height:1px;
+    width:257px;
+    background-color:white;
+}
+
+.section8 .imgBigBox{
+    border:1px solid red;
+    text-align:center;
+}
+
+.section8 .imgbox{
+    display:inline-block;
+    border:1px solid yellow;   
+}
+
+.section8 .imgbox img{
+    border:1px solid red;  
+}
