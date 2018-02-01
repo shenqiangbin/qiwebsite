@@ -382,9 +382,9 @@
                 $(this).attr('src', attr.replace('blue', 'yellow'));
 
                 //代做
-                $(this).siblings().each(function (ele) {
-                    var attr = $(ele).attr('src');
-                    $(ele).attr('src', attr.replace('yellow', 'blue'));
+                $(this).siblings().each(function () {
+                    var attr = $(this).attr('src');
+                    $(this).attr('src', attr.replace('yellow', 'blue'));
                 });
 
                 $("#imgdesc" + id).show().siblings().hide();
