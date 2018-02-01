@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="css/reset.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <link rel="stylesheet" type="text/css" href="css/icons.css" />
-    <link rel="stylesheet" type="text/css" href="css/swiper-3.4.2.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/swiper.min.css" />
 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -72,13 +72,13 @@
             <div class="expert swiper-container">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="img/section8/e1-img.jpg" />
+                        <img src="img/section8/p1.jpg" />
                         <div class="imgleft">
                             <div class="icons left"></div>
                         </div>
                         <div class="info">
                             <span class="name">于增彪</span>
-                            <span class="lable">华领特邀财务管理专家</span>
+                            <span class="lable">管理会计大师课金牌讲师</span>
                             <p class="context">
                                 清华大学博士生导师、教授
                                 <br />
@@ -93,13 +93,13 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/section8/e7-img.jpg" />
+                        <img src="img/section8/p2.jpg" />
                         <div class="imgleft">
                             <div class="icons left"></div>
                         </div>
                         <div class="info">
                             <span class="name">白俊江</span>
-                            <span class="lable">管理会计大师课讲师</span>
+                            <span class="lable">管理会计大师课金牌讲师</span>
                             <p class="context">
                                 美国管理会计师协会亚太区总监<br />
                                 美国管理会计师协会中国区首席代表<br />
@@ -108,32 +108,13 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/section8/" />
-                        <div class="imgleft">
-                            <div class="icons left"></div>
-                        </div>
-                        <div class="info">
-                            <span class="name">薛贵</span>
-                            <span class="lable">华领特邀财务管理专家</span>
-                            <p class="context">
-                                财政部管理会计咨询专家<br />
-                                财政部内部控制咨询专家<br />
-                                全国会计领军人才<br />
-                                大唐电信原CFO<br />
-                                现国新资本副总经理<br />
-                                中国人民大学管理学博士<br />
-                                中国十大CFO<br />
-                            </p>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/section8/e5-img.jpg" />
+                        <img src="img/section8/p3.jpg" />
                         <div class="imgleft">
                             <div class="icons left"></div>
                         </div>
                         <div class="info">
                             <span class="name">陶　伟</span>
-                            <span class="lable">管理会计大师课讲师</span>
+                            <span class="lable">管理会计大师课金牌讲师</span>
                             <p class="context">
                                 江淮汽车集团CFO<br />
                                 瑞福德汽车金融有限公司执行董事<br />
@@ -143,13 +124,13 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/section8/e4-img.jpg" />
+                        <img src="img/section8/p4.jpg" />
                         <div class="imgleft">
                             <div class="icons left"></div>
                         </div>
                         <div class="info">
                             <span class="name">刘学锋</span>
-                            <span class="lable">管理会计大师课讲师</span>
+                            <span class="lable">管理会计大师课金牌讲师</span>
                             <p class="context">
                                 京西重工原CFO  纽约州立大学布法罗管理学院MBA<br />
                                 先后任职西门子中国及江森汽车CFO
@@ -157,94 +138,13 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/section8/e4-img.jpg" />
-                        <div class="imgleft">
-                            <div class="icons left"></div>
-                        </div>
-                        <div class="info">
-                            <span class="name">刘凯</span>
-                            <span class="lable">管理会计大师课讲师</span>
-                            <p class="context">
-                                美国注册管理会计师（CMA）<br />
-                                IMA教育指导委员会认证讲师
-                                <br />
-                                国际大数据协会数据分析专家
-                                <br />
-                                对外经贸大学校外导师
-                                <br />
-                            </p>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/section8/e4-img.jpg" />
-                        <div class="imgleft">
-                            <div class="icons left"></div>
-                        </div>
-                        <div class="info">
-                            <span class="name">孙韵</span>
-                            <span class="lable">管理会计大师课讲师</span>
-                            <p class="context">
-                                美国注册管理会计师（CMA）<br />
-                                清华大学MBA<br />
-                                拜耳（中国）共享服务高级顾问<br />
-                                中石化、航天科工、中船工业共享服务专家顾问<br />
-                            </p>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/section8/e4-img.jpg" />
-                        <div class="imgleft">
-                            <div class="icons left"></div>
-                        </div>
-                        <div class="info">
-                            <span class="name">李强</span>
-                            <span class="lable">管理会计大师课讲师</span>
-                            <p class="context">
-                                美国注册管理会计师（CMA）<br />
-                                加拿大Laurentian MBA
-                                <br />
-                                瑞士莱姆电子及伊莱克斯前CFO
-                            </p>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/section8/e4-img.jpg" />
-                        <div class="imgleft">
-                            <div class="icons left"></div>
-                        </div>
-                        <div class="info">
-                            <span class="name">孙佳琪</span>
-                            <span class="lable">管理会计大师课讲师</span>
-                            <p class="context">
-                                加拿大注册会计师<br />
-                                美国注册管理会计师（CMA）<br />
-                                某跨国集团公司CFO<br />
-                            </p>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/section8/e4-img.jpg" />
-                        <div class="imgleft">
-                            <div class="icons left"></div>
-                        </div>
-                        <div class="info">
-                            <span class="name">刘金秀</span>
-                            <span class="lable">管理会计大师课讲师</span>
-                            <p class="context">
-                                美国注册管理会计师（CMA）<br />
-                                中华财务咨询公司董事、CFO<br />
-                                北京理工大学MPAcc校外导师
-                            </p>
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <img src="img/section8/e4-img.jpg" />
+                        <img src="img/section8/p5.jpg" />
                         <div class="imgleft">
                             <div class="icons left"></div>
                         </div>
                         <div class="info">
                             <span class="name">杨民</span>
-                            <span class="lable">管理会计大师课讲师</span>
+                            <span class="lable">管理会计大师课金牌讲师</span>
                             <p class="context">
                                 CMA、AICPA、MBA<br />
                                 国资委央企CMA班首席讲师<br />
@@ -258,13 +158,13 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/section8/e4-img.jpg" />
+                        <img src="img/section8/p6.jpg" />
                         <div class="imgleft">
                             <div class="icons left"></div>
                         </div>
                         <div class="info">
                             <span class="name">张岩</span>
-                            <span class="lable">管理会计大师课讲师</span>
+                            <span class="lable">管理会计大师课金牌讲师</span>
                             <p class="context">
                                 美国注册管理会计师（CMA）<br />
                                 国资委央企CMA班金牌讲师
@@ -277,13 +177,13 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/section8/e4-img.jpg" />
+                        <img src="img/section8/p7.jpg" />
                         <div class="imgleft">
                             <div class="icons left"></div>
                         </div>
                         <div class="info">
                             <span class="name">施宇青</span>
-                            <span class="lable">管理会计大师课讲师</span>
+                            <span class="lable">管理会计大师课金牌讲师</span>
                             <p class="context">
                                 美国注册管理会计师（CMA）<br />
                                 中国高级会计师<br />
@@ -294,13 +194,13 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <img src="img/section8/e4-img.jpg" />
+                        <img src="img/section8/p8.jpg" />
                         <div class="imgleft">
                             <div class="icons left"></div>
                         </div>
                         <div class="info">
                             <span class="name">李伟强</span>
-                            <span class="lable">管理会计大师课讲师</span>
+                            <span class="lable">管理会计大师课金牌讲师</span>
                             <p class="context">
                                 美国注册管理会计师（CMA）<br />
                                 国资委央企CMA班首席讲师<br />
@@ -311,12 +211,12 @@
                         </div>
                     </div>
                 </div>
-                <img id="leftBtn" src="" />
                 <div class="swiper-pagination swiper-containerp">
                 </div>
-                <span>优异</span>
+            </div>            
+            <div style="text-align:center;border-radius:8px;">
+                <a style="border-radius: 23px;" href="https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn" target="_blank" class="yellowa">了解师资详情</a>
             </div>
-            <a class="btn-green">了解师资详情</a>
         </div>
     </div>
 
@@ -358,7 +258,7 @@
     <div style="height: 300px;">
     </div>
 
-    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="jquery.min.js"></script>
     <script src="swiper.min.js"></script>
     <script type="text/javascript">
 
