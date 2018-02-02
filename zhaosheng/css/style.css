@@ -592,7 +592,7 @@
 }
 
 .section12{
-    height: 289px;
+    height: 513px;
     text-align:center;
     padding-top: 6px;        
 }
@@ -658,4 +658,140 @@
 
 .section12 .other span{
     color:#F8AD36;
+}
+
+
+.section13{height:500px;width:100%;background-color:#102B34;text-align:center;padding-top: 31px;}
+
+/* section13 */
+.section13{
+	height: 745px;
+}
+
+.section13 .boxheader {
+    text-align:center;
+}
+
+.section13 .boxheader .p1{
+    display: block;
+    color: white;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+
+.section13 .boxheader .p2{
+    display: block;
+    color: #EDA336;
+    font-size: 31px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.section13 .boxheader .p3{
+    display: block;
+    color: white;
+    font-size: 24px;
+    letter-spacing: 3px;
+}
+
+
+.section13 .container{
+	position: relative;
+}
+.section13 #context{
+	position: absolute;
+	padding: 0 18px;
+	box-sizing: border-box;
+	width:526px;
+	height: 437px;
+	right: 129px;
+	background: #102b34;
+	top: 0;
+	text-align: center;
+}
+.section13 #context img{
+	width: 481px;
+	height: 282px;
+}
+
+.section13 #context .b-title{
+	line-height: 65px;
+	display: block;
+	color: #eda336;
+	font-weight: bold;
+	font-size: 22px;
+}
+.section13 #context .title{
+	margin-top: 5px;
+	margin-bottom: 16px;
+	display: block;
+	font-size: 16px;
+	color: #eda336;
+	text-align: left;
+	
+}
+.section13 #context .text{
+	color: white;
+	display: block;
+	text-align: left;
+	font-size: 13px;
+    margin-top: -16px;
+}
+.section13 #context .btn{
+	
+	position: absolute;
+	right: 20px;
+	bottom: 50px;
+	font-size: 16px;
+	line-height: 30px;
+
+    color: white;
+    background-color: #eda336;
+    border-radius: 18px;
+    width: 131px;
+    font-size: 14px;
+}
+.section13 .container>.item-logo{
+	width: 151px;
+	height: 110px;
+	float: left;
+	margin-top: -1px;
+	margin-right: -1px;
+	text-align: center;
+    padding-top: 34px;
+    box-sizing: border-box;
+	line-height: 110px;
+}
+.section13 .item-logo img{
+	margin-top: 4px;
+    display: inline-block;
+    vertical-align: top;
+}
+.section13 .item-logo{
+	vertical-align: middle;
+}
+.section13 .logo-left .item-logo{
+	width: 176px;
+	line-height: 110px;
+	text-align: center;
+	height: 110px;
+    padding-top: 34px;
+    box-sizing: border-box;
+	margin-left: -1px;
+	margin-top: -1px;
+	float: left;
+}
+.section13 .logo-left{
+	width: 527px;
+	height:437px ;
+}
+.section13 .item-logo{
+	border: 1px #bfbfbf solid;
+}
+.section13 .item-logo.active{
+	background-color: #EDA336;
+}
+.section13 .container>div{
+	box-sizing: border-box;
+	border: 1px #bfbfbf solid;
 }
