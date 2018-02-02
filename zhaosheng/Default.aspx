@@ -370,6 +370,36 @@
         </div>
     </div>
     
+    <div class="section11">
+        <script charset="UTF-8" defer>(function(h){function n(a){return null===a?null:a.scrollHeight>a.clientHeight?a:n(a.parentNode)}function t(b){if(b.data){var f=JSON.parse(b.data);!f.height||p||q||(d.style.height=+f.height+"px");if(f.getter){b={};var f=[].concat(f.getter),k,h=f.length,m,c,g,e;for(k=0;k<h;k++){m=k;c=f[k]||{};c.n&&(m=c.n);g=null;try{switch(c.t){case "window":e=window;break;case "scrollParent":e=n(a)||window;break;default:e=a}if(c.e)if("rect"===c.v){g={};var l=e.getBoundingClientRect();g={top:l.top,left:l.left,width:l.width,height:l.height}}else g=e[c.v].apply(e,[].concat(c.e))||!0;else c.s?(e[c.v]=c.s,g=!0):g=e[c.v]||!1}catch(u){}b[m]=g}b.innerState=!p&&!q;a.contentWindow.postMessage(JSON.stringify({queryRes:b}),"*")}}}for(var r=h.document,b=r.documentElement;b.childNodes.length&&1==b.lastChild.nodeType;)b=b.lastChild;var d=b.parentNode,a=r.createElement("iframe");d.style.overflowY="auto";d.style.overflowX="hidden";var p=d.style.height&&"auto"!==d.style.height,q="absolute"===d.style.position||window.getComputedStyle&&"absolute"===window.getComputedStyle(d,null).getPropertyValue("position")||d.currentStyle&&"absolute"===d.currentStyle.position;h.addEventListener&&h.addEventListener("message",t,!1);a.src="http://cn.mikecrm.com/e47yy8d";a.id="mkine47yy8d";a.onload=function(){a.contentWindow.postMessage(JSON.stringify({cif:1}),"*")};a.frameBorder=0;a.scrolling="no";a.style.display="block";a.style.minWidth="100%";a.style.width="100px";a.style.height="100%";a.style.border="none";a.style.overflow="auto";d.insertBefore(a,b)})(window);</script>
+    </div>
+
+    <div class="section12">
+        <h4>学习与服务</h4>
+        <div class="content">
+            <div class="leftPanel">
+                <div class="firstp">
+                    华领国际是管理会计人才培养和可持续发展整体解决方案提供商，很早就在开展了CMA培训服务。我们旨在为企业和个人提供周到的培训和发展解决方案，帮助企业完善员工能力与组织绩效。
+                </div>
+                <div class="secondp">
+                    华领国际旗下有“不知财经”大型在线管理会计培训平台，以及管理会计公益直播平台——“管理会计大师课”，和专注于大学生可持续发展的教育品牌——“派课学院”。自08年以来，华领积极探索管理会计体系在企业界的应用与发展，作为美国管理会计师协会IMA战略性合作伙伴，从11年开始至今在管理会计学术研发、企业实践及人才服务等多个领域取得很大成就，服务于10000多名管理会计在职学员及1000多家企业会员。
+                </div>
+            </div>
+            <div class="rightPanel">
+                <img src="img/neirong.png"/>
+                <div class="imgdesc">
+                    <span>IMA授权CMA培训机构</span>
+                    <span>CMA继续教育CPE授权机构</span>
+                </div>
+                <div class="other">
+                    <span>我们的使命：</span>帮助企业和个人持续保持高速发展
+                    <br />
+                    <span>我们的宗旨：</span>用工匠精神做教育，以师者之心做企业
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div style="height: 300px;">
     </div>
 
