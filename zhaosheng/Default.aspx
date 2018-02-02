@@ -344,36 +344,36 @@
 			<section class="zy-prev"><img src="img/left.png"/></section>
 			<section class="zy-next"><img src="img/right.png"/></section>
 			<ul>
-				<li><img src="img/1.jpg" alt="" /></li>
-				<li><img src="img/2.jpg" alt="" /></li>
-				<li><img src="img/3.jpg" alt="" /></li>
+				<li style="background-color:red;"><img src="img/1.png" alt="" /></li>
+				<li style="background-color:blue;"><img src="img/2.png" alt="" /></li>
+				<li style="background-color:red;"><img src="img/3.png" alt="" /></li>
 			</ul>
 			
 		</div>
     </div>
     
     <div class="section10">
-        <h4>企业认可CMA</h4>
+        <h4>关于CMA，您可能还想了解内容</h4>
         <div class="firstLine">
-            <span>CMA的影响力</span>
-            <span>CMA课程体系</span>
-            <span>CMA人才缺口</span>
-            <span>CMA薪资待遇</span>
-             <span>CMA企业招聘</span>
+            <a target='_blank' href='https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn'>CMA的影响力</a>
+            <a target='_blank' href='https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn'>CMA课程体系</a>
+            <a target='_blank' href='https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn'>CMA人才缺口</a>
+            <a target='_blank' href='https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn'>CMA薪资待遇</a>
+            <a target='_blank' href='https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn'>CMA企业招聘</a>
         </div>
         <div class="secondLine">           
-            <span>CMA考试语言</span>
-            <span>CMA考点地址</span>
-            <span>CMA持续教育</span>
-            <span>CMA考试题型</span>
-            <span>CMA通过率</span>
+            <a target='_blank' href='https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn'>CMA考试语言</a>
+            <a target='_blank' href='https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn'>CMA考点地址</a>
+            <a target='_blank' href='https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn'>CMA持续教育</a>
+            <a target='_blank' href='https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn'>CMA考试题型</a>
+            <a target='_blank' href='https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn'>CMA通过率</a>
         </div>
     </div>
     
     <div style="height: 300px;">
     </div>
 
-   <script src="http://www.jq22.com/jquery/jquery-1.10.2.js"></script>
+   <script src="jquery.min.js"></script>
     <script src="swiper.min.js"></script>
      <script src="jquery.zyslide.js"></script>
     

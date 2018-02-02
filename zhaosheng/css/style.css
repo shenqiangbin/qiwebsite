@@ -549,7 +549,7 @@
 
 
 .section10{
-    height: 400px;
+    height: 289px;
     text-align:center;
     padding-top: 6px;        
     background:url('../img/section10bg.png') no-repeat;
@@ -562,5 +562,31 @@
     margin-top: 26px;
     margin-bottom: -3px;
     letter-spacing: 5px;
-    color:#09518B;
+    color:white;
+}
+
+.section10 div{
+    text-align:center;
+}
+
+.section10 div.firstLine{
+    margin:44px 0;
+}
+
+.section10 div.secondLine{
+    margin:10px 0;
+}
+
+.section10 a,.section10 a:hover{
+    font-size: 17px;
+    border-radius: 18px;
+    background-color: #FCAF43;
+    color: white;
+    width: 148px;
+    display: inline-block;
+    height: 35px;
+    margin-right: 23px;
+    text-decoration: none;
+    /* text-align: center; */
+    line-height: 34px;
 }

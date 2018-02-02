@@ -8,13 +8,14 @@
 	position: relative;
 	width: 754px;
 	height: 292px;
-	margin: 100px auto 0;
 	/*background-color: red;*/
 	/* 799 - 754 = 45 */
+    margin: 0 auto;
+    margin-top: 61px;
 }
 .zy-container .zy-slide .zy-prev, .zy-container .zy-slide .zy-next{
 	position: absolute;
-	top: 50%;
+	top: 60%;
 	width: 40px;
 	height: 80px;
 	margin-top: -40px;

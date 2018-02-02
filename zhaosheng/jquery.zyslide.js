@@ -29,10 +29,13 @@
 		
 		var states = [
 		/*{ZIndex: 1,width: 120,height: 150,top: 69,left: 66,ZOpacity: 0.2},
-		{ZIndex: 2,width: 130,height: 170,top: 59,left: 0,ZOpacity: 0.5},*/
-		{ZIndex: 3,width: 170,height: 218,top: 35,left: 110,ZOpacity: 0.7},
-		{ZIndex: 4,width: 224,height: 288,top: 0,left: 265,ZOpacity: 1},
-		{ZIndex: 3,width: 170,height: 218,top: 35,left: 474,ZOpacity: 0.7},
+		//{ZIndex: 2,width: 130,height: 170,top: 59,left: 0,ZOpacity: 0.5},*/
+		//{ZIndex: 3,width: 170,height: 218,top: 35,left: 110,ZOpacity: 0.7},
+		//{ZIndex: 4,width: 224,height: 288,top: 0,left: 265,ZOpacity: 1},
+		//{ ZIndex: 3, width: 170, height: 218, top: 35, left: 474, ZOpacity: 0.7 },
+        { ZIndex: 3, width: 270, height: 270, top: 35, left: 25, ZOpacity: 0.7, bgColor: '#163041' },
+		{ ZIndex: 4, width: 354, height: 354, top: -9, left: 201, ZOpacity: 1, bgColor: '#1E5476' },
+		{ ZIndex: 3, width: 270, height: 270, top: 35, left: 464, ZOpacity: 0.7, bgColor: '#163041' },
 		/*{ZIndex: 2,width: 130,height: 170,top: 59,left: 624,ZOpacity: 0.5},
 		{ZIndex: 1,width: 120,height: 150,top: 69,left: 568,ZOpacity: 0.2},*/
 	]
@@ -42,8 +45,8 @@
 	// 让每个 li 对应上面 states 的每个状态
 	function move(){
 		lis.each(function(index,ele){
-			var state = states[index];
-			$(ele).css('z-index',state.ZIndex).finish().animate(state,setting.delay).find('img').css('opacity',state.ZOpacity);
+		    var state = states[index];
+            $(ele).css('z-index', state.ZIndex).css('background-color', state.bgColor).finish().animate(state, setting.delay).find('img').css('opacity', state.ZOpacity);
 		});
 	}
 	move();
@@ -87,12 +90,12 @@
 			next()
 		},setting.speed);
 	}
-	autoPlay();
+	//autoPlay();
 	
 	$ele.find('section').hover(function(){
 		clearInterval(interval);
 	},function(){
-		autoPlay();
+		//autoPlay();
 	 })
 	}
 	
