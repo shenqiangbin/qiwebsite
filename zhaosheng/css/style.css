@@ -521,3 +521,46 @@
     display: block;
     margin: 10px auto 20px auto;
 }
+
+.section9{
+    height: 565px;
+    background-color:white;
+    text-align:center;
+    padding-top: 6px;    
+}
+
+.section9 h4{
+    font-size: 34px;
+    font-weight: bold;
+    margin-top: 26px;
+    margin-bottom: -3px;
+    letter-spacing: 5px;
+    color:#09518B;
+}
+
+.section9 .line{
+    display:inline-block;
+    height:1px;
+    width:284px;
+    background-color:#09518B;
+    margin-left: -6px;
+    position: relative;
+}
+
+
+.section10{
+    height: 400px;
+    text-align:center;
+    padding-top: 6px;        
+    background:url('../img/section10bg.png') no-repeat;
+    background-size:100% 100%;
+}
+
+.section10 h4{
+    font-size: 34px;
+    font-weight: bold;
+    margin-top: 26px;
+    margin-bottom: -3px;
+    letter-spacing: 5px;
+    color:#09518B;
+}

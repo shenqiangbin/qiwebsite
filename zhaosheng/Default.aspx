@@ -12,6 +12,7 @@
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <link rel="stylesheet" type="text/css" href="css/icons.css" />
     <link rel="stylesheet" type="text/css" href="css/swiper.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/jquery.zyslide.css" />
 
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
@@ -336,13 +337,47 @@
         </div>
     </div>
 
+    <div class="section9 zy-container">
+        <h4>企业认可CMA</h4>
+        <div class="line"></div>
+        <div class="zy-slide slidesx">
+			<section class="zy-prev"><img src="img/left.png"/></section>
+			<section class="zy-next"><img src="img/right.png"/></section>
+			<ul>
+				<li><img src="img/1.jpg" alt="" /></li>
+				<li><img src="img/2.jpg" alt="" /></li>
+				<li><img src="img/3.jpg" alt="" /></li>
+			</ul>
+			
+		</div>
+    </div>
     
+    <div class="section10">
+        <h4>企业认可CMA</h4>
+        <div class="firstLine">
+            <span>CMA的影响力</span>
+            <span>CMA课程体系</span>
+            <span>CMA人才缺口</span>
+            <span>CMA薪资待遇</span>
+             <span>CMA企业招聘</span>
+        </div>
+        <div class="secondLine">           
+            <span>CMA考试语言</span>
+            <span>CMA考点地址</span>
+            <span>CMA持续教育</span>
+            <span>CMA考试题型</span>
+            <span>CMA通过率</span>
+        </div>
+    </div>
     
     <div style="height: 300px;">
     </div>
 
-    <script src="jquery.min.js"></script>
+   <script src="http://www.jq22.com/jquery/jquery-1.10.2.js"></script>
     <script src="swiper.min.js"></script>
+     <script src="jquery.zyslide.js"></script>
+    
+
     <script type="text/javascript">
 
         function section5_swiper() {
@@ -394,7 +429,19 @@
             section5_swiper();
             section7F();
             section8F();
+
+            //jQuery.noConflict();
+            $('.slidesx').zySlide({ speed: 3000, delay: 500 }).css({
+                //'backgroundColor': 'red'
+            })
         });
+    </script>
+
+   
+    <script>
+        $(function () {
+           
+        });        
     </script>
 </asp:Content>
 
