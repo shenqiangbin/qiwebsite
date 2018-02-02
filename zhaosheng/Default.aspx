@@ -258,30 +258,86 @@
     <div class="section8">
         <h4>国家部委领导推荐CMA</h4>
         <div class="line"></div>
-        <div class="imgBigBox">
+        <div class="imgBigBox" style="margin-top: 25px;">
             <div class="imgbox">
                 <img src="img/p1.jpg"  />
+                <div class="desc">
+                    <span>张佑才</span>
+                    <br />
+                    <span>国家财政部原副部长</span>
+                </div>
+                <div class="hide">
+                    <span></span>
+                    未来十年，财务会计人才需求将削减2/3，大量传统财务人员将面临向管理会计转型或失业。
+                </div>
             </div>
             <div class="imgbox">
                 <img src="img/p2.jpg"  />
+                <div class="desc">
+                    <span>楼继伟</span>
+                    <br />
+                    <span>国家财政部原部长</span>
+                </div>
+                <div class="hide">
+                    <span></span>
+                    具备管理会计师资格的人员往往更受到企业青睐，越来越成为聘任首席执行官、首席财务官的重要参考。如果说打造中国经济的“升级版”在于推动经济转型，那么打造中国会计“升级版”的重点就在于大力培育和发展管理会计。
+                </div>
             </div>
             <div class="imgbox">
                 <img src="img/p3.jpg"  />
+                <div class="desc">
+                    <span>廖家生</span>
+                    <br />
+                    <span>财务监督与考核评价局 副局长</span>
+                </div>
+                <div class="hide">
+                    <span></span>
+                    国资委对管理会计工具的运用非常重视并积极地支持，与国家外国专家局和美国管理会计师协会北京代表处紧密合作多年，在中央企业培养CMA人才，这对促进提升中央企业的管理水平，尤其是财务管理的转型具有重要的意义。
+                </div>
             </div>
         </div>
         <div class="imgBigBox">
             <div class="imgbox">
                 <img src="img/p4.jpg"  />
+                 <div class="desc">
+                    <span>王 军</span>
+                     <br />
+                    <span>国家税务总局 局长</span>
+                </div>
+                <div class="hide">
+                    <span></span>
+                    希望通过中美双方的共同努力，形成一个在中国人才市场上对经过CMA培训的学员成为‘抢手货’的局面，让CMA成为‘知名品牌’。
+                </div>
             </div>
             <div class="imgbox">
                 <img src="img/p5.jpg"  />
+                 <div class="desc">
+                    <span>傅自应</span>
+                     <br />
+                    <span>商务部 副部长</span>
+                </div>
+                <div class="hide">
+                    <span></span>
+                    很多企业的国际化程度越来越高，需要引进当今世界先进的管理理念和经验，做好企业成本核算。相信IMA进入中国，可以帮助中国培养目前我们急需的管理会计师和财务管理方面的高级管理人才。
+                </div>
             </div>
             <div class="imgbox">
                 <img src="img/p6.jpg"  />
+                 <div class="desc">
+                    <span>陆 明</span>
+                     <br />
+                    <span>国家外专局 副局长</span>
+                </div>
+                <div class="hide">
+                    <span></span>
+                    有着近百年历史的IMA，是当今世界管理会计学界最权威的机构之一，有其推出的CMA认证是世界财会领域里的权威标准，具有很强的实用性。该证书的成功引进，对我国紧缺的高级管理会计人才的培养，有着极大的推动作用和重要意义。
+                </div>
             </div>
         </div>
     </div>
 
+    
+    
     <div style="height: 300px;">
     </div>
 
@@ -321,9 +377,23 @@
             });
         }
 
+        function section8F() {
+            $(".section8 .imgbox").mouseenter(function () {
+                $(this).find("div:last").show();
+                $(this).find("div:first").hide();
+                $(this).find("img").hide();
+            })
+            .mouseleave(function () {
+                $(this).find("div:last").hide();
+                $(this).find("div:first").show();
+                $(this).find("img").show();
+            });
+        }
+
         $(function () {
             section5_swiper();
             section7F();
+            section8F();
         });
     </script>
 </asp:Content>
