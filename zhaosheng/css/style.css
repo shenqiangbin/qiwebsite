@@ -798,7 +798,7 @@
 
 
 .section14{
-    height: 513px;
+    height: 672px;
     text-align:center;
     padding-top: 6px;        
 }
@@ -819,6 +819,90 @@
    
 .section14 .panel { height:496px; width:1002px; position:relative;margin: 0 auto; margin-top: 25px; }
 .section14 .panel .dot { width: 36px; height: 36px; display: block; position: absolute; top: 155px; right: 399px; background: url('../img/dot.png') no-repeat; z-index:99; }
-.section14 .panel .panel1 { height:496px; width:1002px; position:absolute; left:0px; top:0px; text-align:center; }
+.section14 .panel .panel1 { height:496px; width:1002px; position:absolute; left:-15px; top:0px; text-align:center; }
 .section14 .panel .panel1 .b-desc { font-style:initial; font-size: 16px;}
 .section14 .panel .panel2 { height:496px; width:1002px; position:absolute; left:0px; top:0px; }
+
+
+.section15{
+    height: 415px;
+    width: 1440px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 49px;
+    background: url(../img/section15bg.png) no-repeat;    
+}
+
+.section15 h4{
+    font-size: 43px;
+    color: #FDA427;
+    font-family: 黑体;
+    letter-spacing: 6px;
+}
+
+.section15 .content{
+    text-align: center;
+    border: 0px solid red;
+    margin-top: 35px;
+}
+
+.section15 .imgBox{
+    display: inline-block;
+    border: 0px solid red;
+    width: 291px;
+    text-align: center;
+}
+
+.section15 .imgBox div{    
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 19px;
+    margin-top: 23px;
+    letter-spacing: 2px;
+    font-family:黑体;
+}
+
+.section15 .bord div{    
+   border-right: 1px dotted white;
+}
+
+
+.section16{
+    height: 415px;
+    width: 1440px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 49px;
+}
+
+.section16 h4{
+    font-size: 35px;
+    color: #034C83;
+    letter-spacing: 6px;
+    font-weight: bold;
+}
+
+.section16 .content{
+    text-align: center;
+    border: 0px solid red;
+    margin-top: 35px;
+}
+
+.section16 .imgBox{
+    display: inline-block;
+    border: 0px solid red;
+    width: 191px;
+    text-align: center;
+}
+
+.section16 .imgBox div{    
+    width: 100%;
+    text-align: center;
+    font-size: 19px;
+    letter-spacing: 2px;    
+}
+
+.yellowaR{
+    border-radius:18px;
+}

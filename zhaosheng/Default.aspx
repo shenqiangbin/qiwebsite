@@ -519,6 +519,62 @@
         </div>
     </div>
 
+    <div class="section15">
+        <h4>华领国际旗下品牌</h4>
+        <div class="content">
+            <div class="imgBox bord">
+                <img src="img/section15-1.png" />
+                <div>管理会计大师课</div>
+            </div>
+            <div class="imgBox bord">
+                <img src="img/section15-2.png" />
+                <div>不知财经</div>
+            </div>
+            <div class="imgBox">
+                <img src="img/section15-3.png" />
+                <div>派课学院</div>
+            </div>
+        </div>
+    </div>
+
+     <div class="section16">
+        <h4>班型及价格</h4>
+        <div class="content">
+            <div class="imgBox bord">
+                <img src="img/section16-1.jpg" />
+                <div>面授高级班</div>
+            </div>
+            <div class="imgBox bord">
+                <img src="img/section16-2.jpg" />
+                <div>面授精英班</div>
+            </div>
+            <div class="imgBox">
+                <img src="img/section16-3.jpg" />
+                <div>网校精英班</div>
+            </div>
+        </div>
+         <div class="content">            
+            <div class="imgBox bord">
+                <img src="img/section16-4.jpg" />
+                <div>央财双证精英班</div>
+            </div>
+            <div class="imgBox bord">
+                <img src="img/section16-5.jpg" />
+                <div>北外研究生三证班</div>
+            </div>
+            <div class="imgBox">
+                <img src="img/section16-6.jpg" />
+                <div>VIP尊享班</div>
+            </div>
+             <div class="imgBox">
+                <img src="img/section16-7.jpg" />
+                <div>CMA企业团报班</div>
+            </div>
+        </div>
+        <br />
+        <a href="https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn" target="_blank" class="yellowa yellowaR">获取CMA课程报价单</a>
+    </div>
+
     <div style="height: 300px;">
     </div>
 
