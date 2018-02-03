@@ -641,6 +641,10 @@
         </div>
     </div>
 
+</asp:Content>
+
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder2" runat="Server">
+    
    <script src="jquery.min.js"></script>
     <script src="swiper.min.js"></script>
      <script src="jquery.zyslide.js"></script>
@@ -729,11 +733,4 @@
         });
     </script>
 
-   
-    <script>
-        $(function () {
-           
-        });        
-    </script>
 </asp:Content>
-
