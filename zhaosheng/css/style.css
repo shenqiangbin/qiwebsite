@@ -826,11 +826,11 @@
 
 .section15{
     height: 415px;
-    width: 1440px;
     margin: 0 auto;
     text-align: center;
     padding-top: 49px;
     background: url(../img/section15bg.png) no-repeat;    
+    background-size: cover;
 }
 
 .section15 h4{
@@ -870,7 +870,6 @@
 
 .section16{
     height: 647px;
-    width: 1440px;
     margin: 0 auto;
     text-align: center;
     padding-top: 49px;
@@ -910,9 +909,9 @@
 .section17 {
     height:465px;
     background:url(../img/section10bg.png) no-repeat;
-    background-size: 100%;
+    background-size: cover;
     text-align: center;
-    padding: 20px;
+    padding-top: 20px;
 }
 
 .section17  h4{
