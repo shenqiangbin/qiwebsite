@@ -869,7 +869,7 @@
 
 
 .section16{
-    height: 415px;
+    height: 647px;
     width: 1440px;
     margin: 0 auto;
     text-align: center;
@@ -905,4 +905,92 @@
 
 .yellowaR{
     border-radius:18px;
+}
+
+.section17 {
+    height:465px;
+    background:url(../img/section10bg.png) no-repeat;
+    background-size: 100%;
+    text-align: center;
+    padding: 20px;
+}
+
+.section17  h4{
+    font-size: 35px;
+    color: white;
+}
+
+.section17  .content{
+    width: 1210px;
+    border: 0px solid yellow;
+    margin: 0 auto;
+    padding-left: 153px;
+    margin-top: 30px;
+}
+.section17  .line{
+    width: 1109px;
+    height: 1px;
+    margin: 0 auto;
+    background: linear-gradient(to left,#12313c,#f9fafb,#12313c);
+    margin-top: 21px;
+}
+
+.section17  .box{
+    width: 601px;
+    display: inline-block;
+    border: 0px solid red;
+    color: white;
+}
+
+.section17  .box img{
+    float: left;
+    margin-right: 8px;
+}
+.section17  .box h3{
+    color: #a5d3e5;
+}
+
+
+.section18{
+    height: 647px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 28px;
+    background-color: #1E282A;
+}
+
+.section18 h4{
+    font-size: 35px;
+    color: white;
+    letter-spacing: 6px;
+    font-weight: bold;
+}
+
+.section18 span{
+    color: white;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 41px;
+}
+
+.section18 .content{
+    text-align: center;
+    border: 0px solid red;
+    margin-top: 35px;
+}
+
+.section18 .imgBox{
+    display: inline-block;
+    border: 0px solid red;
+    width: 191px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.section18 .imgBox div{    
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 2px;   
+    color:white; 
 }

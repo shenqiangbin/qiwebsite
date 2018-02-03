@@ -537,7 +537,7 @@
         </div>
     </div>
 
-     <div class="section16">
+    <div class="section16">
         <h4>班型及价格</h4>
         <div class="content">
             <div class="imgBox bord">
@@ -553,7 +553,7 @@
                 <div>网校精英班</div>
             </div>
         </div>
-         <div class="content">            
+        <div class="content">            
             <div class="imgBox bord">
                 <img src="img/section16-4.jpg" />
                 <div>央财双证精英班</div>
@@ -575,7 +575,70 @@
         <a href="https://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn" target="_blank" class="yellowa yellowaR">获取CMA课程报价单</a>
     </div>
 
-    <div style="height: 300px;">
+    <div class="section17">
+        <h4>360°立体服务体系</h4>
+        <div class="content">
+            <div class="box">
+                <img src="img/section17-1.png"/>
+                <h3>1 对 1 VIP 考务服务</h3>
+                <p>约考指导、考务注册；实时上课通知提醒、学习进度跟进、考试动态通知、<br />实时考情分析；辅助取证手续办理。</p>
+            </div>
+            <div class="box">
+                <img src="img/section17-1.png"/>
+                <h3>1 对 1 VIP 私人订制</h3>
+                <p>个人专属1对1“教学计划书”服务。为您量身定制的私人教学计划，<br />让学习变得随心所欲，让生活、工作、学习三者统一平衡。</p>
+            </div>
+        </div>
+       <div class="line"></div>
+       <div class="content">
+            <div class="box">
+                <img src="img/section17-2.png"/>
+                <h3 style="color:#b8d4b2">考前分享</h3>
+                <p>CMA 高分学员为您分享他们的备考心得、学习方法、考试方法、解题<br />思路，让您的学习过程与通过考试更加顺利。</p>
+            </div>
+            <div class="box">
+                <img src="img/section17-3.png"/>
+                <h3 style="color:#b7bede">增值服务</h3>
+                <p>赠送后续教育服务、赠送 CPE 学分保障、赠送职业推介服<br />务、学习论坛支持、职业社群服务。</p>
+            </div>
+        </div>
+       <div class="line"></div>
+        <div class="content" style="text-align:center;">
+            <div class="box">
+                <img src="img/section17-4.png"/>
+                <h3 style="color:#dec7b7">权益保障</h3>
+                <p>华领一贯秉持“我承诺，我兑现”的诚信原则，坚决抵制培训陷阱。在每位学员入学前<br />我们都会与您签订《学员权益保障协议》，让您的权益得到保障。</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="section18">
+        <h4>联系我们</h4>
+        <span>扫一扫，了解更多</span>
+        <div class="content">
+            <div class="imgBox bord">
+                <img src="img/err-1.jpg" />
+                <div>华领国际微信号</div>
+            </div>
+            <div class="imgBox bord">
+                <img src="img/err-2.jpg" />
+                <div style="padding-left: 2px;">管理会计大师课微信号</div>
+            </div>
+            <div class="imgBox">
+                <img src="img/err-3.jpg" />
+                <div>不知财经微信号</div>
+            </div>
+            <div class="imgBox">
+                <img src="img/err-4.jpg" />
+                <div>派课学员微信号</div>
+            </div>
+        </div>
+        <div class="content">
+            <div class="imgBox bord">
+                <img src="img/err-5.jpg" />
+                <div>下载不知财经APP</div>
+            </div>            
+        </div>
     </div>
 
    <script src="jquery.min.js"></script>
