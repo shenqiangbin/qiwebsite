@@ -11,6 +11,7 @@
     <link rel="stylesheet" type="text/css" href="css/reset.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <link rel="stylesheet" type="text/css" href="css/icons.css" />
+    <link rel="stylesheet" type="text/css" href="css/animate.min.css" />
     <link rel="stylesheet" type="text/css" href="css/swiper.min.css" />
     <link rel="stylesheet" type="text/css" href="css/jquery.zyslide.css" />
 
@@ -496,6 +497,28 @@
         </div>
     </div>
 
+    <div class="section14">
+        <h4>屡获殊荣</h4>
+        <p>
+            多次获得国家外国专家局及美国管理会计师协会IMA“年度CMA推广工作优秀培训机构”、
+            <br />
+            “年度CMA企业管理会计人才培养特殊贡献奖”、“年度最佳职业培训机构”等奖项。
+        </p>
+        <div class="panel">
+            <a href="javascript:void(0)" class="dot animated flash" style="animation-iteration-count:infinite;" id="redDot"></a>
+            <div class="panel1" id="=p1">
+                <img src="img/box2font.png" style="margin-left:21px;">
+                <p class="b-desc"> ·获得Promotion Distinguish Award（杰出推广奖）</p>
+                <p class="b-desc"> ·获得Promotion Star Award（推广之星奖）</p>
+                <p class="b-desc"> ·获得CMA推广工作优秀培训机构奖</p>
+                <p class="b-desc"> ·获得CMA推广工作先进单位奖</p>
+            </div>
+            <div class="panel2" id="p2" style="display: none;">
+                <img src="img/box2img.jpg">
+            </div>
+        </div>
+    </div>
+
     <div style="height: 300px;">
     </div>
 
@@ -561,11 +584,24 @@
             });
         }
 
+        function section14F() {
+
+            $('#redDot').hover(
+                        function () {
+                            $('#p1').fadeOut();
+                            $('#p2').fadeIn();
+                        }, function () {
+                            $('#p1').fadeIn();
+                            $('#p2').fadeOut();
+                        });
+        }
+
         $(function () {
             section5_swiper();
             section7F();
             section8F();
             section13F();
+            section14F();
 
             //jQuery.noConflict();
             $('.slidesx').zySlide({ speed: 3000, delay: 500 }).css({
