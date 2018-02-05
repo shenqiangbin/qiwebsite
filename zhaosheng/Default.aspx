@@ -25,7 +25,8 @@
         <div class="box11">
             <div class="title">
                 <%--CMA<span class="special">6</span>级赋能教学体系发布--%>
-                CMA6级赋能
+                <span style="font-family:'方正兰亭粗黑简体'">CMA</span>
+                <span style="font-family:'方正兰亭纤黑';margin-left:-21px;">6级赋能</span>
             </div>
            <div class="line">教学体系发布</div>
             <div class="content">
