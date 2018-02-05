@@ -1,8 +1,7 @@
 ﻿.section1 {
     height: 400px;
     border: 0px solid red;
-    /*font-family: 黑体;*/
-    padding-top: 20px;
+    /*font-family: 黑体;*/   
     background: url(../img/section1bg.jpg) no-repeat;
     background-position:center;
 }
@@ -11,7 +10,7 @@
     width: 1104px;
     margin: 0 auto;
     border: 0px solid red;
-    padding-top: 30px;
+    padding-top: 46px;
 }
 
     .section1 .title {
@@ -63,6 +62,7 @@
             text-decoration: none;
             text-align: center;
             line-height: 31px;
+                padding-left: 5px;
         }
 
 .section2 {
