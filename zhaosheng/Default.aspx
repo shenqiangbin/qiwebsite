@@ -632,13 +632,13 @@
                 <img src="img/err-4.jpg" />
                 <div>派课学员微信号</div>
             </div>
-        </div>
-        <div class="content">
             <div class="imgBox bord">
                 <img src="img/err-5.jpg" />
                 <div>下载不知财经APP</div>
-            </div>            
+            </div>    
         </div>
+<%--        <div class="content">                   
+        </div>--%>
     </div>
 
 </asp:Content>
