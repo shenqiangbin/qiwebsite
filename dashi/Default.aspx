@@ -219,7 +219,7 @@
                 <h3>尽职调查</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>企业定制体检-财务尽职调查</li>                        
+                        <li>企业定制体检-财务尽职调查</li>
                     </ul>
                 </div>
             </div>
@@ -228,7 +228,7 @@
                 <h3>税收筹划</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>高新企业税收筹划及实战应用</li>                        
+                        <li>高新企业税收筹划及实战应用</li>
                     </ul>
                 </div>
             </div>
@@ -238,7 +238,7 @@
                 <div class="ulbox innerbox">
                     <ul>
                         <li>解读FASB ASC 842最新租赁准则</li>
-                        <li>中美会计准则差异对比</li>                        
+                        <li>中美会计准则差异对比</li>
                     </ul>
                 </div>
             </div>
@@ -255,7 +255,143 @@
         </div>
     </div>
 
+    <div class="section6">
+        <h2>管理会计能力进阶课</h2>
+        <h4>内嵌CMA能力框架，套餐特惠</h4>
+        <div class="arrow"></div>
+        <div style="height: 20px;"></div>
+        <div class="row">
+            <div class="box">
+                <div class="circle">
+                    <span>PART-1</span>
+                    <h3>规划与报告</h3>
+                </div>
+                <div class="ulbox innerbox">
+                    <ul>
+                        <li>全价值链成本管理实践（上）</li>
+                        <li>全价值链成本管理实践（下）</li>
+                        <li>企业预算管理的体系构建与实施</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="box">
+                <div class="circle">
+                    <span>PART-2</span>
+                    <h3>决策</h3>
+                </div>
+                <div class="ulbox innerbox">
+                    <ul>
+                        <li>管理会计的职业道德指南</li>
+                        <li>企业如何构建高效的风险管控体系</li>
+                        <li>企业融资渠道浅析</li>
+                        <li>企业投资如何配置有限资源</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="box">
+                <div class="circle">
+                    <span>PART-3</span>
+                    <h3>科技</h3>
+                </div>
+                <div class="ulbox innerbox">
+                    <ul>
+                        <li>建设财务共享中心，从“新”开始</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="box">
+                <div class="circle">
+                    <span>PART-4</span>
+                    <h3>营运</h3>
+                </div>
+                <div class="ulbox innerbox">
+                    <ul>
+                        <li>业财融合之全面质量管理与质量成本控制</li>
+                        <li>项目财务管理理论与实务</li>
+                        <li>生产成本数据的分析与控制</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="box">
+                <div class="circle">
+                    <span>PART-5</span>
+                    <h3>领导力</h3>
+                </div>
+                <div class="ulbox innerbox">
+                    <ul>
+                        <li>领导力-管理会计师的制胜法宝</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="box">
+                <div class="circle">
+                    <span>PART-6</span>
+                    <h3>能力进阶</h3>
+                </div>
+                <div class="ulbox innerbox">
+                    <ul>
+                        <li>管理会计的概念、范围及应用</li>
+                        <li>管理会计的基本指引</li>
+                        <li>从江淮汽车集团化财务管理体系实践看财务转型与价值创造</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div style="margin-top: 58px; text-align: center;">
+            <a class="btn" href="http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn" target="_blank">购买套餐更优惠</a>
+        </div>
+    </div>
 
+    <div class="section7">
+        <h2>管理会计认证课程</h2>
+        <div class="arrow"></div>
+        <div style="margin-top: 9px;"></div>
+        <div class="box">
+            <img src="./img/7-1.png" />
+            <h3>CMA面授高级班</h3>
+        </div>
+        <div class="box">
+            <img src="./img/7-2.png" />
+            <h3>CMA面授精英班</h3>
+        </div>
+        <div class="box">
+            <img src="./img/7-3.png" />
+            <h3>CMA网校精英班</h3>
+        </div>
+        <div class="box">
+            <img src="./img/7-4.png" />
+            <h3>CMA VIP尊享班</h3>
+        </div>
+        <div class="box">
+            <img src="./img/7-5.png" />
+            <h3>CMA中财<br />
+                双证精英班<br />
+                （面授）</h3>
+        </div>
+        <div class="box">
+            <img src="./img/7-6.png" />
+            <h3>CMA中财<br />
+                双证精英班<br />
+                （网校）</h3>
+        </div>
+        <div class="box">
+            <img src="./img/7-7.png" />
+            <h3>CMA北外研究生<br />
+                三证班</h3>
+        </div>
+        <div style="margin-top: 33px; text-align: center;">
+            <a class="btn" href="http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn" target="_blank">点击咨询</a>
+        </div>
+    </div>
+
+    <div class="section8">
+        <h2>为何选择管理会计大师课?</h2>
+        <div class="arrow"></div>
+        <h3>管理会计大师课课程体系根据国际先进的管理会计理论CMA、全球500强企业案例、以及中国财政部的官方《管理会计指引》制定，结合中国企业发展现实，全面系统研发，其模块从组织战略、管理会计工具、组织运营、盈利模式……等等，全视角、多维度阐述管理会计的实务应用及体系建设。</h3>
+        <img src="./img/8-1.png"/>
+    </div>
     <script type="text/javascript">
         //$(function () {});
     </script>
