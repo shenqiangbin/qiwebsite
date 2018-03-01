@@ -392,6 +392,28 @@
         <h3>管理会计大师课课程体系根据国际先进的管理会计理论CMA、全球500强企业案例、以及中国财政部的官方《管理会计指引》制定，结合中国企业发展现实，全面系统研发，其模块从组织战略、管理会计工具、组织运营、盈利模式……等等，全视角、多维度阐述管理会计的实务应用及体系建设。</h3>
         <img src="./img/8-1.png"/>
     </div>
+
+    <div class="section9">
+        <h2>行业实战名家，理论导师，<span style="color:#BF9E5B;">倾力助阵</span></h2>
+        <div class="arrow"></div>
+        <div style="margin-top:20px;"></div>
+        <img src="./img/9-1.png"/>
+    </div>
+
+    <div class="section10">
+        <h2>管理会计大师课企业年卡<span style="color:#BF9E5B;">火爆销售中</span></h2>
+        <div class="arrow"></div>
+        <div class="subtitle">华领国际为国际500强龙头企业提供管理会计CMA内训及企业咨询服务</div>
+        <img src="./img/10-1.png"/>
+        <div style="margin-top: 31px; text-align: center;">
+            <a class="btn" href="http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn" target="_blank">立即咨询</a>            
+        </div>
+    </div>
+
+    <div class="section11">
+        <script charset="UTF-8">(function(h){function n(a){return null===a?null:a.scrollHeight>a.clientHeight?a:n(a.parentNode)}function t(b){if(b.data){var f=JSON.parse(b.data);!f.height||p||q||(d.style.height=+f.height+"px");if(f.getter){b={};var f=[].concat(f.getter),k,h=f.length,m,c,g,e;for(k=0;k<h;k++){m=k;c=f[k]||{};c.n&&(m=c.n);g=null;try{switch(c.t){case "window":e=window;break;case "scrollParent":e=n(a)||window;break;default:e=a}if(c.e)if("rect"===c.v){g={};var l=e.getBoundingClientRect();g={top:l.top,left:l.left,width:l.width,height:l.height}}else g=e[c.v].apply(e,[].concat(c.e))||!0;else c.s?(e[c.v]=c.s,g=!0):g=e[c.v]||!1}catch(u){}b[m]=g}b.innerState=!p&&!q;a.contentWindow.postMessage(JSON.stringify({queryRes:b}),"*")}}}for(var r=h.document,b=r.documentElement;b.childNodes.length&&1==b.lastChild.nodeType;)b=b.lastChild;var d=b.parentNode,a=r.createElement("iframe");d.style.overflowY="auto";d.style.overflowX="hidden";var p=d.style.height&&"auto"!==d.style.height,q="absolute"===d.style.position||window.getComputedStyle&&"absolute"===window.getComputedStyle(d,null).getPropertyValue("position")||d.currentStyle&&"absolute"===d.currentStyle.position;h.addEventListener&&h.addEventListener("message",t,!1);a.src="http://cn.mikecrm.com/OSGu0Le";a.id="mkinOSGu0Le";a.onload=function(){a.contentWindow.postMessage(JSON.stringify({cif:1}),"*")};a.frameBorder=0;a.scrolling="no";a.style.display="block";a.style.minWidth="100%";a.style.width="100px";a.style.height="100%";a.style.border="none";a.style.overflow="auto";d.insertBefore(a,b)})(window);</script>
+    </div>
+
     <script type="text/javascript">
         //$(function () {});
     </script>
