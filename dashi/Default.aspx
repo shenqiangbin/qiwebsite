@@ -54,7 +54,8 @@
         </div>
         <div class="imgbox imgboxdesc">
             <div class="box">
-                <div class="leftbox"><img src="./img/shuline2.png" /></div>
+                <div class="leftbox">
+                    <img src="./img/shuline2.png" /></div>
                 <div class="rightbox">
                     <a href="http://www.bzcj.com/front/couinfo/432" target="_blank">管理会计：概念、范围和应用</a>
                     <span class="line"></span>
@@ -62,17 +63,19 @@
                 </div>
             </div>
             <div class="box">
-                <div class="leftbox"><img src="./img/shuline2.png" /></div>
+                <div class="leftbox">
+                    <img src="./img/shuline2.png" /></div>
                 <div class="rightbox">
-                     <a href="http://www.bzcj.com/front/couinfo/447" target="_blank">在财务转型中认识和实践管理会计（上）</a>
+                    <a href="http://www.bzcj.com/front/couinfo/447" target="_blank">在财务转型中认识和实践管理会计（上）</a>
                     <span class="line"></span>
                     <a href="http://www.bzcj.com/front/couinfo/464" target="_blank">在财务转型中认识和实践管理会计（下）</a>
                 </div>
             </div>
             <div class="box">
-                <div class="leftbox"><img style="margin-top: -6px;" src="./img/shuline3.png" /></div>
+                <div class="leftbox">
+                    <img style="margin-top: -6px;" src="./img/shuline3.png" /></div>
                 <div class="rightbox">
-                     <a href="http://www.bzcj.com/front/couinfo/461" target="_blank">全价值链成本管理实践（上）</a>
+                    <a href="http://www.bzcj.com/front/couinfo/461" target="_blank">全价值链成本管理实践（上）</a>
                     <span class="line"></span>
                     <a href="http://www.bzcj.com/front/couinfo/474" target="_blank">全价值链成本管理实践（下）</a>
                     <span class="line"></span>
@@ -88,7 +91,8 @@
         </div>
         <div class="imgbox imgboxdesc">
             <div class="box">
-                <div class="leftbox"><img src="./img/shuline2.png" /></div>
+                <div class="leftbox">
+                    <img src="./img/shuline2.png" /></div>
                 <div class="rightbox">
                     <a href="http://www.bzcj.com/front/couinfo/416" target="_blank">领导力-管理会计师的制胜法宝</a>
                     <span class="line"></span>
@@ -96,17 +100,19 @@
                 </div>
             </div>
             <div class="box">
-                <div class="leftbox"><img src="./img/shuline2.png" /></div>
+                <div class="leftbox">
+                    <img src="./img/shuline2.png" /></div>
                 <div class="rightbox">
-                     <a href="http://www.bzcj.com/front/couinfo/471" target="_blank">风险管理的原理及方法（上）</a>
+                    <a href="http://www.bzcj.com/front/couinfo/471" target="_blank">风险管理的原理及方法（上）</a>
                     <span class="line"></span>
                     <a href="http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211" target="_blank">风险管理的原理及方法（下）</a>
                 </div>
             </div>
             <div class="box">
-                <div class="leftbox"><img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
+                <div class="leftbox">
+                    <img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
                 <div class="rightbox">
-                     <a href="http://www.bzcj.com/front/couinfo/410" target="_blank">从江淮汽车集团化集团化财务管理体系实践看财务转型与价值创造</a>                    
+                    <a href="http://www.bzcj.com/front/couinfo/410" target="_blank">从江淮汽车集团化集团化财务管理体系实践看财务转型与价值创造</a>
                 </div>
             </div>
         </div>
@@ -116,23 +122,27 @@
             <img src="./img/4-8.jpg" />
             <img src="./img/4-9.jpg" />
         </div>
-         <div class="imgbox imgboxdesc">            
+        <div class="imgbox imgboxdesc">
             <div class="box">
-                <div class="leftbox"><img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
+                <div class="leftbox">
+                    <img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
                 <div class="rightbox">
-                     <a href="http://www.bzcj.com/front/couinfo/445" target="_blank">未完工不动产-在建工程转让交易<br />实务案例分析</a>                    
+                    <a href="http://www.bzcj.com/front/couinfo/445" target="_blank">未完工不动产-在建工程转让交易<br />
+                        实务案例分析</a>
                 </div>
             </div>
             <div class="box">
-                <div class="leftbox"><img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
+                <div class="leftbox">
+                    <img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
                 <div class="rightbox">
-                     <a href="http://www.bzcj.com/front/couinfo/423" target="_blank">总会计师与企业价值创造</a>                    
+                    <a href="http://www.bzcj.com/front/couinfo/423" target="_blank">总会计师与企业价值创造</a>
                 </div>
             </div>
             <div class="box">
-                <div class="leftbox"><img style="margin-top: -6px;" src="./img/shuline3.png" /></div>
+                <div class="leftbox">
+                    <img style="margin-top: -6px;" src="./img/shuline3.png" /></div>
                 <div class="rightbox">
-                     <a href="http://www.bzcj.com/front/couinfo/328" target="_blank">业财融合-管理会计企业价值服务体系</a>
+                    <a href="http://www.bzcj.com/front/couinfo/328" target="_blank">业财融合-管理会计企业价值服务体系</a>
                     <span class="line"></span>
                     <a href="http://www.bzcj.com/front/couinfo/436" target="_blank">业财融合-全面质量管理和质量成本</a>
                     <span class="line"></span>
@@ -146,19 +156,21 @@
             <span style="width: 137px; display: inline-block;">&nbsp;</span>
             <img src="./img/4-11.jpg" />
         </div>
-        <div class="imgbox imgboxdesc">            
-            <div class="box" style="margin-right:86px;">
-                <div class="leftbox"><img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
+        <div class="imgbox imgboxdesc">
+            <div class="box" style="margin-right: 86px;">
+                <div class="leftbox">
+                    <img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
                 <div class="rightbox">
-                     <a href="http://www.bzcj.com/front/couinfo/479" target="_blank">通过财务共享服务支持财务全面转型</a>                    
+                    <a href="http://www.bzcj.com/front/couinfo/479" target="_blank">通过财务共享服务支持财务全面转型</a>
                 </div>
             </div>
-            <div class="box" style="margin-left:83px;">
-                <div class="leftbox"><img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
+            <div class="box" style="margin-left: 83px;">
+                <div class="leftbox">
+                    <img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
                 <div class="rightbox">
-                     <a href="http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211" target="_blank">内部审计-阳光照进梦想</a>                    
+                    <a href="http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211" target="_blank">内部审计-阳光照进梦想</a>
                 </div>
-            </div>            
+            </div>
         </div>
         <img src="./img/line.png" />
     </div>
@@ -173,8 +185,8 @@
                 <h3>财务报表</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>编制集团合并财务报表- CFO帮你理清思路</li>
-                        <li>精益责任价值管控-会计表单</li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/267" target="_blank">编制集团合并财务报表- CFO帮你理清思路</a></li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/281" target="_blank">精益责任价值管控-会计表单</a></li>
                     </ul>
                 </div>
             </div>
@@ -183,20 +195,20 @@
                 <h3>财务分析</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>领导管理驾驶舱设计与Excel可视化分析实战</li>
-                        <li>工厂财务分析指标告诉你的那些事</li>
-                        <li>Excel内置BI工具在比率、占比、同比、环比分析中的应用</li>
-                        <li>财务报表分析</li>
-                        <li>从京东年报看财务管理分析</li>
-                        <li>当财务遇见大数据......</li>
-                        <li>从理论到实际--阿米巴经营管理模式的应用</li>
-                        <li>大数据时代下的领先财务工具-POWER BI</li>
-                        <li>使用Power BI创建 量本利盈亏平衡分析仪</li>
-                        <li>巧用EXCEL实现BI分析</li>
-                        <li>未完工不动产-在建工程转让交易实务案例分析</li>
-                        <li>EXCEL BI工具在销售预测中的应用</li>
-                        <li>EXCEL轻松搞定财务大数据</li>
-                        <li>如何使用EXCEL商务智能创建财务仪表盘</li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/207' target='_blank'>领导管理驾驶舱设计与Excel可视化分析实战</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/210' target='_blank'>工厂财务分析指标告诉你的那些事</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/235' target='_blank'>Excel内置BI工具在比率、占比、同比、环比分析中的应用</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/245' target='_blank'>财务报表分析</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/325' target='_blank'>从京东年报看财务管理分析</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/373' target='_blank'>当财务遇见大数据......</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/435' target='_blank'>从理论到实际--阿米巴经营管理模式的应用</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/414' target='_blank'>大数据时代下的领先财务工具-POWER BI</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/431' target='_blank'>使用Power BI创建 量本利盈亏平衡分析仪</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/437' target='_blank'>巧用EXCEL实现BI分析</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/445' target='_blank'>未完工不动产-在建工程转让交易实务案例分析</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/288' target='_blank'>EXCEL BI工具在销售预测中的应用</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/347' target='_blank'>EXCEL轻松搞定财务大数据</a></li>
+                        <li><a href='http://www.bzcj.com/front/showcoulist' target='_blank'>如何使用EXCEL商务智能创建财务仪表盘</a></li>
                     </ul>
                 </div>
             </div>
@@ -205,14 +217,14 @@
                 <h3>财务共享</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>建设财务共享中心,从"新"开始</li>
-                        <li>鉴于往而资于今-财务共享服务信息系统建设经验分享</li>
-                        <li>建设财务共享服务中心需要战略战术双驱动</li>
-                        <li>建设财务共享中心之调研阶段攻略</li>
-                        <li>建设财务共享中心之设计阶段攻略</li>
-                        <li>中国财务共享中心典型案例剖析</li>
-                        <li>业财税一体化信息系统建设案例剖析</li>
-                        <li>通过财务共享服务支持财务全面转型</li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/212' target='_blank'>建设财务共享中心,从"新"开始</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/272' target='_blank'>鉴于往而资于今-财务共享服务信息系统建设经验分享</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/320' target='_blank'>建设财务共享服务中心需要战略战术双驱动</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/332' target='_blank'>建设财务共享中心之调研阶段攻略</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/372' target='_blank'>建设财务共享中心之设计阶段攻略</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/412' target='_blank'>中国财务共享中心典型案例剖析</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/439' target='_blank'>业财税一体化信息系统建设案例剖析</a></li>
+                        <li><a href='http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211' target='_blank'>通过财务共享服务支持财务全面转型</a></li>
                     </ul>
                 </div>
             </div>
@@ -221,20 +233,20 @@
                 <h3>财务决策</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>企业全新经济效益指标体系的应用</li>
-                        <li>图说本量利</li>
-                        <li>管理会计报告实战分享</li>
-                        <li>图说二八定律</li>
-                        <li>保证资产负债表的完整性-做好资产负债表审核工作</li>
-                        <li>企业投资如何配置有限资源</li>
-                        <li>EVA衡量公司价值创造的有力工具(免费试听)</li>
-                        <li>企业融资渠道浅析</li>
-                        <li>如何从财务角度带动采购管理</li>
-                        <li>从财务角度提高企业设备效率</li>
-                        <li>资管业务结构化设计案例分享</li>
-                        <li>从财务角度看销售管理</li>
-                        <li>项目财务管理理论与实务</li>
-                        <li>企业投资中的财务价值体现</li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/208' target='_blank'>企业全新经济效益指标体系的应用</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/211' target='_blank'>图说本量利</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/196' target='_blank'>管理会计报告实战分享</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/218' target='_blank'>图说二八定律</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/221' target='_blank'>保证资产负债表的完整性-做好资产负债表审核工作</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/246' target='_blank'>企业投资如何配置有限资源</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/252' target='_blank'>EVA衡量公司价值创造的有力工具(免费试听)</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/274' target='_blank'>企业融资</a>渠道浅析</li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/276' target='_blank'>如何从财务角度带动采购管理</a></li>
+                        <li><a href='http://www.bzcj.com/front/showcoulist' target='_blank'>从财务角度提高企业设备效率</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/291' target='_blank'>资管业务结构化设计案例分享</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/298' target='_blank'>从财务角度看销售管理</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/305' target='_blank'>项目财务管理理论与实务</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/323' target='_blank'>企业投资中的财务价值体现</a></li>
                     </ul>
                 </div>
             </div>
@@ -245,15 +257,15 @@
                 <h3>成本管理</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>认识作业管理</li>
-                        <li>作业管理在营销模式中的应用</li>
-                        <li>作业成本法的应用</li>
-                        <li>作业管理在营运改进和战略决策中的应用</li>
-                        <li>项目财务管理-在报价中的产品成本</li>
-                        <li>生产成本数据的分析与控制</li>
-                        <li>业财融合之全面质量管理和质量成本</li>
-                        <li>全价值链成本管理实践（上）</li>
-                        <li>全价值链成本管理实践（下）</li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/201' target='_blank'>认识作业管理</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/206' target='_blank'>作业管理在营销模式中的应用</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/248' target='_blank'>作业成本法的应用</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/255' target='_blank'>作业管理在营运改进和战略决策中的应用</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/336' target='_blank'>项目财务管理-在报价中的产品成本</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/402' target='_blank'>生产成本数据的分析与控制</a></li>
+                        <li><a href='http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211' target='_blank'>业财融合之全面质量管理和质量成本</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/461' target='_blank'>全价值链成本管理实践（上）</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/474' target='_blank'>全价值链成本管理实践（下）</a></li>
                     </ul>
                 </div>
             </div>
@@ -262,12 +274,12 @@
                 <h3>风险内控</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>企业如何构建高效的风险管控体系</li>
-                        <li>企业对外投资风险与对应的实际操作</li>
-                        <li>转移定价与实务</li>
-                        <li>浅析企业内控体系构建</li>
-                        <li>内控护航企业价值增值</li>
-                        <li>风险管理的原理及方法</li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/200' target='_blank'>企业如何构建高效的风险管控体系</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/219' target='_blank'>企业对外投资风险与对应的实际操作</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/293' target='_blank'>转移定价与实务</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/343' target='_blank'>浅析企业内控体系构建</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/407' target='_blank'>内控护航企业价值增值</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/471' target='_blank'>风险管理的原理及方法</a></li>
                     </ul>
                 </div>
             </div>
@@ -276,16 +288,16 @@
                 <h3>预算管理</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>预算的具体编制内容及控制</li>
-                        <li>预算执行与控制</li>
-                        <li>预算的考核与业绩评价</li>
-                        <li>预算目标的建立和预算分析</li>
-                        <li>企业预算管理的体系构建与实施</li>
-                        <li>销售预算的编制与应用</li>
-                        <li>驾驭明天的收获-向预算管理要利润</li>
-                        <li>2018年企业预算编制应该重点突破哪些障碍</li>
-                        <li>全面预算--为公司战略保驾护航</li>
-                        <li>年底盘点结账与预算修正</li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/197' target='_blank'>预算的具体编制内容及控制</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/198' target='_blank'>预算执行与控制</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/199' target='_blank'>预算的考核与业绩评价</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/203' target='_blank'>预算目标的建立和预算分析</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/214' target='_blank'>企业预算管理的体系构建与实施</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/302' target='_blank'>销售预算的编制与应用</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/383' target='_blank'>驾驭明天的收获-向预算管理要利润</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/469' target='_blank'>2018年企业预算编制应该重点突破哪些障碍</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/485' target='_blank'>全面预算--为公司战略保驾护航</a></li>
+                        <li><a href='http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211' target='_blank'>年底盘点结账与预算修正</a></li>
                     </ul>
                 </div>
             </div>
@@ -294,11 +306,11 @@
                 <h3>投资融资</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>A股市场IPO制度、流程及策略</li>
-                        <li>创业企业财务管理</li>
-                        <li>项目财务管理之项目资本性拨款</li>
-                        <li>IPO审计常见的财务问题及规范方法</li>
-                        <li>估值--价值管理的基础</li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/300' target='_blank'>A股市场IPO制度、流程及策略</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/339' target='_blank'>创业企业财务管理</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/350' target='_blank'>项目财务管理之项目资本性拨款</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/395' target='_blank'>IPO审计常见的财务问题及规范方法</a></li>
+                        <li><a href='http://www.bzcj.com/front/couinfo/419' target='_blank'>估值--价值管理的基础</a></li>
                     </ul>
                 </div>
             </div>
@@ -309,7 +321,7 @@
                 <h3>尽职调查</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>企业定制体检-财务尽职调查</li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/229" target="_blank">企业定制体检-财务尽职调查</a></li>
                     </ul>
                 </div>
             </div>
@@ -318,7 +330,7 @@
                 <h3>税收筹划</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>高新企业税收筹划及实战应用</li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/278" target="_blank">高新企业税收筹划及实战应用</a></li>
                     </ul>
                 </div>
             </div>
@@ -327,8 +339,8 @@
                 <h3>会计准则</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>解读FASB ASC 842最新租赁准则</li>
-                        <li>中美会计准则差异对比</li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/205" target="_blank">解读FASB ASC 842最新租赁准则</a></li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/444" target="_blank">中美会计准则差异对比</a></li>
                     </ul>
                 </div>
             </div>
@@ -337,8 +349,8 @@
                 <h3>绩效管理</h3>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>财务管理如何全方位提高企业绩效</li>
-                        <li>互联网+绩效：6个“一”详解绩效管理</li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/209" target="_blank">财务管理如何全方位提高企业绩效</a></li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/453" target="_blank">互联网+绩效：6个“一”详解绩效管理</a></li>
                     </ul>
                 </div>
             </div>
@@ -358,9 +370,9 @@
                 </div>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>全价值链成本管理实践（上）</li>
-                        <li>全价值链成本管理实践（下）</li>
-                        <li>企业预算管理的体系构建与实施</li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/461" target="_blank">全价值链成本管理实践（上）</a></li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/474" target="_blank">全价值链成本管理实践（下）</a></li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/214" target="_blank">企业预算管理的体系构建与实施</a></li>
                     </ul>
                 </div>
             </div>
@@ -371,10 +383,10 @@
                 </div>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>管理会计的职业道德指南</li>
-                        <li>企业如何构建高效的风险管控体系</li>
-                        <li>企业融资渠道浅析</li>
-                        <li>企业投资如何配置有限资源</li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/426" target="_blank">管理会计的职业道德指南</a></li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/200" target="_blank">企业如何构建高效的风险管控体系</a></li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/274" target="_blank">企业融资渠道浅析</a></li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/246" target="_blank">企业投资如何配置有限资源</a></li>
                     </ul>
                 </div>
             </div>
@@ -385,7 +397,7 @@
                 </div>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>建设财务共享中心，从“新”开始</li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/212" target="_blank">建设财务共享中心，从“新”开始</a></li>
                     </ul>
                 </div>
             </div>
@@ -398,9 +410,9 @@
                 </div>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>业财融合之全面质量管理与质量成本控制</li>
-                        <li>项目财务管理理论与实务</li>
-                        <li>生产成本数据的分析与控制</li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/436" target="_blank">业财融合之全面质量管理与质量成本控制</a></li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/305" target="_blank">项目财务管理理论与实务</a></li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/402" target="_blank">生产成本数据的分析与控制</a></li>
                     </ul>
                 </div>
             </div>
@@ -411,7 +423,7 @@
                 </div>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>领导力-管理会计师的制胜法宝</li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/416" target="_blank">领导力-管理会计师的制胜法宝</a></li>
                     </ul>
                 </div>
             </div>
@@ -422,9 +434,9 @@
                 </div>
                 <div class="ulbox innerbox">
                     <ul>
-                        <li>管理会计的概念、范围及应用</li>
-                        <li>管理会计的基本指引</li>
-                        <li>从江淮汽车集团化财务管理体系实践看财务转型与价值创造</li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/432" target="_blank">管理会计的概念、范围及应用</a></li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/441" target="_blank">管理会计的基本指引</a></li>
+                        <li><a href="http://www.bzcj.com/front/couinfo/410" target="_blank">从江淮汽车集团化财务管理体系实践看财务转型与价值创造</a></li>
                     </ul>
                 </div>
             </div>

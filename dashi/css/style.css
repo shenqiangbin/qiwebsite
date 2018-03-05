@@ -216,6 +216,10 @@ h2 {
             height: 81px;
         }
 
+        .section5 .box a{
+            color:white !important;
+        }
+
         .section5 .box ul {
             color: white;
             margin-left: 23px;
@@ -306,7 +310,7 @@ h2 {
         .section6 .box .ulbox {
             margin-top: 24px;
             overflow-y: auto;
-            height: 100px;
+            height: 100px;            
         }
 
         .section6 .box ul {
