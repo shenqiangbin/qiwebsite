@@ -1,4 +1,8 @@
-﻿
+﻿a {
+    text-decoration:none;
+    color: black;
+}
+
 .section1 {
     width: 100%;
     height: 400px;
@@ -118,6 +122,52 @@ h2 {
             vertical-align: top;
         }
 
+        .section4 .imgbox .box {
+            border: 0px solid red;
+            width: 321px;
+            height: 20px;
+            display: inline-block;
+            margin: 0 13px;
+            vertical-align: top;
+        }
+
+        .imgboxdesc{            
+            margin-bottom: 72px;
+        }
+
+        .section4 .imgbox div.leftbox {
+            display: inline-block;
+            border: 0px solid black;
+            vertical-align: top;
+            margin-top: 9px;
+        }
+        .section4 .imgbox div.leftbox  img{
+            margin:0;
+            padding:0;
+        }
+
+        .section4 .imgbox div.rightbox {
+            display: inline-block;
+            border: 0px solid green;
+            width: 92%;
+        }
+
+        .section4 .imgbox .line {
+            background: url(../img/shortline.png) repeat-x;
+            display: block;
+            width: 298px;
+            height: 1px;
+            background-position: center;
+        }
+
+        .section4 .imgbox div a {
+                display: inline-block;
+            font-size: 15px;
+            font-weight: bold;
+            
+        }
+
+
 .section5 {
     background-color: #2c2e2e;
     text-align: center;
@@ -188,7 +238,7 @@ h2 {
     border-radius: 5px;
     -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
     /*background: rgba(0,0,0,0.2);*/
-    background: white;
+    background: #2CC9D8;
 }
 
 .innerbox::-webkit-scrollbar-track { /*滚动条里面轨道*/

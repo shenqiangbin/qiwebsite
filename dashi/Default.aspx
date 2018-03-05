@@ -48,27 +48,117 @@
         <h2>名师精品课</h2>
         <div class="arrow"></div>
         <div class="imgbox">
-            <img src="./img/4-1.png" />
-            <img src="./img/4-2.png" />
-            <img src="./img/4-3.png" />
+            <img src="./img/4-1.jpg" />
+            <img src="./img/4-2.jpg" />
+            <img src="./img/4-3.jpg" />
+        </div>
+        <div class="imgbox imgboxdesc">
+            <div class="box">
+                <div class="leftbox"><img src="./img/shuline2.png" /></div>
+                <div class="rightbox">
+                    <a href="http://www.bzcj.com/front/couinfo/432" target="_blank">管理会计：概念、范围和应用</a>
+                    <span class="line"></span>
+                    <a href="http://www.bzcj.com/front/couinfo/469" target="_blank">2018年企业预算编制应该重点突破哪些障碍</a>
+                </div>
+            </div>
+            <div class="box">
+                <div class="leftbox"><img src="./img/shuline2.png" /></div>
+                <div class="rightbox">
+                     <a href="http://www.bzcj.com/front/couinfo/447" target="_blank">在财务转型中认识和实践管理会计（上）</a>
+                    <span class="line"></span>
+                    <a href="http://www.bzcj.com/front/couinfo/464" target="_blank">在财务转型中认识和实践管理会计（下）</a>
+                </div>
+            </div>
+            <div class="box">
+                <div class="leftbox"><img style="margin-top: -6px;" src="./img/shuline3.png" /></div>
+                <div class="rightbox">
+                     <a href="http://www.bzcj.com/front/couinfo/461" target="_blank">全价值链成本管理实践（上）</a>
+                    <span class="line"></span>
+                    <a href="http://www.bzcj.com/front/couinfo/474" target="_blank">全价值链成本管理实践（下）</a>
+                    <span class="line"></span>
+                    <a href="http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211" target="_blank">财务人员领导力与职业道德的修炼</a>
+                </div>
+            </div>
         </div>
         <img src="./img/line.png" />
         <div class="imgbox">
-            <img src="./img/4-4.png" />
-            <img src="./img/4-5.png" />
-            <img src="./img/4-6.png" />
+            <img src="./img/4-4.jpg" />
+            <img src="./img/4-5.jpg" />
+            <img src="./img/4-6.jpg" />
+        </div>
+        <div class="imgbox imgboxdesc">
+            <div class="box">
+                <div class="leftbox"><img src="./img/shuline2.png" /></div>
+                <div class="rightbox">
+                    <a href="http://www.bzcj.com/front/couinfo/416" target="_blank">领导力-管理会计师的制胜法宝</a>
+                    <span class="line"></span>
+                    <a href="http://www.bzcj.com/front/couinfo/426" target="_blank">管理会计的职业道德指南</a>
+                </div>
+            </div>
+            <div class="box">
+                <div class="leftbox"><img src="./img/shuline2.png" /></div>
+                <div class="rightbox">
+                     <a href="http://www.bzcj.com/front/couinfo/471" target="_blank">风险管理的原理及方法（上）</a>
+                    <span class="line"></span>
+                    <a href="http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211" target="_blank">风险管理的原理及方法（下）</a>
+                </div>
+            </div>
+            <div class="box">
+                <div class="leftbox"><img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
+                <div class="rightbox">
+                     <a href="http://www.bzcj.com/front/couinfo/410" target="_blank">从江淮汽车集团化集团化财务管理体系实践看财务转型与价值创造</a>                    
+                </div>
+            </div>
         </div>
         <img src="./img/line.png" />
         <div class="imgbox">
-            <img src="./img/4-7.png" />
-            <img src="./img/4-8.png" />
-            <img src="./img/4-9.png" />
+            <img src="./img/4-7.jpg" />
+            <img src="./img/4-8.jpg" />
+            <img src="./img/4-9.jpg" />
+        </div>
+         <div class="imgbox imgboxdesc">            
+            <div class="box">
+                <div class="leftbox"><img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
+                <div class="rightbox">
+                     <a href="http://www.bzcj.com/front/couinfo/445" target="_blank">未完工不动产-在建工程转让交易<br />实务案例分析</a>                    
+                </div>
+            </div>
+            <div class="box">
+                <div class="leftbox"><img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
+                <div class="rightbox">
+                     <a href="http://www.bzcj.com/front/couinfo/423" target="_blank">总会计师与企业价值创造</a>                    
+                </div>
+            </div>
+            <div class="box">
+                <div class="leftbox"><img style="margin-top: -6px;" src="./img/shuline3.png" /></div>
+                <div class="rightbox">
+                     <a href="http://www.bzcj.com/front/couinfo/328" target="_blank">业财融合-管理会计企业价值服务体系</a>
+                    <span class="line"></span>
+                    <a href="http://www.bzcj.com/front/couinfo/436" target="_blank">业财融合-全面质量管理和质量成本</a>
+                    <span class="line"></span>
+                    <a href="http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211" target="_blank">管理增长--追求企业健康持续的发展</a>
+                </div>
+            </div>
         </div>
         <img src="./img/line.png" />
         <div class="imgbox">
-            <img src="./img/4-10.png" />
+            <img src="./img/4-10.jpg" />
             <span style="width: 137px; display: inline-block;">&nbsp;</span>
-            <img src="./img/4-11.png" />
+            <img src="./img/4-11.jpg" />
+        </div>
+        <div class="imgbox imgboxdesc">            
+            <div class="box" style="margin-right:86px;">
+                <div class="leftbox"><img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
+                <div class="rightbox">
+                     <a href="http://www.bzcj.com/front/couinfo/479" target="_blank">通过财务共享服务支持财务全面转型</a>                    
+                </div>
+            </div>
+            <div class="box" style="margin-left:83px;">
+                <div class="leftbox"><img style="margin-top: -2px;" src="./img/shuline1.png" /></div>
+                <div class="rightbox">
+                     <a href="http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211" target="_blank">内部审计-阳光照进梦想</a>                    
+                </div>
+            </div>            
         </div>
         <img src="./img/line.png" />
     </div>
@@ -390,28 +480,28 @@
         <h2>为何选择管理会计大师课?</h2>
         <div class="arrow"></div>
         <h3>管理会计大师课课程体系根据国际先进的管理会计理论CMA、全球500强企业案例、以及中国财政部的官方《管理会计指引》制定，结合中国企业发展现实，全面系统研发，其模块从组织战略、管理会计工具、组织运营、盈利模式……等等，全视角、多维度阐述管理会计的实务应用及体系建设。</h3>
-        <img src="./img/8-1.png"/>
+        <img src="./img/8-1.png" />
     </div>
 
     <div class="section9">
-        <h2>行业实战名家，理论导师，<span style="color:#BF9E5B;">倾力助阵</span></h2>
+        <h2>行业实战名家，理论导师，<span style="color: #BF9E5B;">倾力助阵</span></h2>
         <div class="arrow"></div>
-        <div style="margin-top:20px;"></div>
-        <img src="./img/9-1.png"/>
+        <div style="margin-top: 20px;"></div>
+        <img src="./img/9-1.png" />
     </div>
 
     <div class="section10">
-        <h2>管理会计大师课企业年卡<span style="color:#BF9E5B;">火爆销售中</span></h2>
+        <h2>管理会计大师课企业年卡<span style="color: #BF9E5B;">火爆销售中</span></h2>
         <div class="arrow"></div>
         <div class="subtitle">华领国际为国际500强龙头企业提供管理会计CMA内训及企业咨询服务</div>
-        <img src="./img/10-1.png"/>
+        <img src="./img/10-1.png" />
         <div style="margin-top: 31px; text-align: center;">
-            <a class="btn" href="http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn" target="_blank">立即咨询</a>            
+            <a class="btn" href="http://lwt.zoosnet.net/LR/Chatpre.aspx?id=LWT91490211&lng=cn" target="_blank">立即咨询</a>
         </div>
     </div>
 
     <div class="section11">
-        <script charset="UTF-8">(function(h){function n(a){return null===a?null:a.scrollHeight>a.clientHeight?a:n(a.parentNode)}function t(b){if(b.data){var f=JSON.parse(b.data);!f.height||p||q||(d.style.height=+f.height+"px");if(f.getter){b={};var f=[].concat(f.getter),k,h=f.length,m,c,g,e;for(k=0;k<h;k++){m=k;c=f[k]||{};c.n&&(m=c.n);g=null;try{switch(c.t){case "window":e=window;break;case "scrollParent":e=n(a)||window;break;default:e=a}if(c.e)if("rect"===c.v){g={};var l=e.getBoundingClientRect();g={top:l.top,left:l.left,width:l.width,height:l.height}}else g=e[c.v].apply(e,[].concat(c.e))||!0;else c.s?(e[c.v]=c.s,g=!0):g=e[c.v]||!1}catch(u){}b[m]=g}b.innerState=!p&&!q;a.contentWindow.postMessage(JSON.stringify({queryRes:b}),"*")}}}for(var r=h.document,b=r.documentElement;b.childNodes.length&&1==b.lastChild.nodeType;)b=b.lastChild;var d=b.parentNode,a=r.createElement("iframe");d.style.overflowY="auto";d.style.overflowX="hidden";var p=d.style.height&&"auto"!==d.style.height,q="absolute"===d.style.position||window.getComputedStyle&&"absolute"===window.getComputedStyle(d,null).getPropertyValue("position")||d.currentStyle&&"absolute"===d.currentStyle.position;h.addEventListener&&h.addEventListener("message",t,!1);a.src="http://cn.mikecrm.com/OSGu0Le";a.id="mkinOSGu0Le";a.onload=function(){a.contentWindow.postMessage(JSON.stringify({cif:1}),"*")};a.frameBorder=0;a.scrolling="no";a.style.display="block";a.style.minWidth="100%";a.style.width="100px";a.style.height="100%";a.style.border="none";a.style.overflow="auto";d.insertBefore(a,b)})(window);</script>
+        <script charset="UTF-8">(function (h) { function n(a) { return null === a ? null : a.scrollHeight > a.clientHeight ? a : n(a.parentNode) } function t(b) { if (b.data) { var f = JSON.parse(b.data); !f.height || p || q || (d.style.height = +f.height + "px"); if (f.getter) { b = {}; var f = [].concat(f.getter), k, h = f.length, m, c, g, e; for (k = 0; k < h; k++) { m = k; c = f[k] || {}; c.n && (m = c.n); g = null; try { switch (c.t) { case "window": e = window; break; case "scrollParent": e = n(a) || window; break; default: e = a } if (c.e) if ("rect" === c.v) { g = {}; var l = e.getBoundingClientRect(); g = { top: l.top, left: l.left, width: l.width, height: l.height } } else g = e[c.v].apply(e, [].concat(c.e)) || !0; else c.s ? (e[c.v] = c.s, g = !0) : g = e[c.v] || !1 } catch (u) { } b[m] = g } b.innerState = !p && !q; a.contentWindow.postMessage(JSON.stringify({ queryRes: b }), "*") } } } for (var r = h.document, b = r.documentElement; b.childNodes.length && 1 == b.lastChild.nodeType;) b = b.lastChild; var d = b.parentNode, a = r.createElement("iframe"); d.style.overflowY = "auto"; d.style.overflowX = "hidden"; var p = d.style.height && "auto" !== d.style.height, q = "absolute" === d.style.position || window.getComputedStyle && "absolute" === window.getComputedStyle(d, null).getPropertyValue("position") || d.currentStyle && "absolute" === d.currentStyle.position; h.addEventListener && h.addEventListener("message", t, !1); a.src = "http://cn.mikecrm.com/OSGu0Le"; a.id = "mkinOSGu0Le"; a.onload = function () { a.contentWindow.postMessage(JSON.stringify({ cif: 1 }), "*") }; a.frameBorder = 0; a.scrolling = "no"; a.style.display = "block"; a.style.minWidth = "100%"; a.style.width = "100px"; a.style.height = "100%"; a.style.border = "none"; a.style.overflow = "auto"; d.insertBefore(a, b) })(window);</script>
     </div>
 
     <script type="text/javascript">
