@@ -149,7 +149,7 @@ h2 {
         .section4 .imgbox div.rightbox {
             display: inline-block;
             border: 0px solid green;
-            width: 92%;
+            width: 291px;
         }
 
         .section4 .imgbox .line {
@@ -204,7 +204,7 @@ h2 {
             color: white;
             font-size: 27px;
             border-bottom: 1px solid white;
-            width: 108px;
+            width: 125px;
             display: block;
             margin: 0 auto;
             margin-top: 19px;
