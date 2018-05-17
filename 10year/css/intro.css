@@ -141,13 +141,13 @@ a,a:hover{
 	margin-left: 62px;
 }
 .sec3 .box3{
-	margin-left: 67px;
+	margin-left: 61px;
 }
 .sec3 .box4{
 	margin-left: 67px;
 }
 .sec3 .box5{
-	margin-left: 52px;	
+	margin-left: 48px;	
 }
 .sec3 .box6{
 	margin-left: 55px;
@@ -168,7 +168,7 @@ a,a:hover{
 	text-align: center;
 }
 .sec4 .desc{	
-    margin-top: -79px;
+    margin-top: -75px;
     color: #1268a1;
 }
 .sec4 .desc span:nth-child(1){
@@ -179,7 +179,7 @@ a,a:hover{
 	margin-left: 93px;
 }
 .sec4 .desc span:nth-child(3){
-	margin-left: 120px;
+	margin-left: 111px;
 }
 .sec4 .desc span:nth-child(4){
 	margin-left: 117px;
@@ -367,7 +367,7 @@ a,a:hover{
     margin-top: 71px;
 }
 .sec8 .mcontent .box{
-    width: 245px;
+    width: 241px;
     height: 409px;    
     display: inline-block;  
     vertical-align: top;    
