@@ -1,0 +1,53 @@
+.zy-container ul,.zy-container li{
+	margin: 0;
+	padding: 0;
+}
+
+.zy-container .zy-slide{
+	/* ä¸¤ä¸ª section (å‰ä¸€å¼ ã€åŽä¸€å¼ ) è¦åšç›¸å¯¹å®šä½ */
+	position: relative;
+	width: 754px;
+	height: 292px;
+	/*background-color: red;*/
+	/* 799 - 754 = 45 */
+    margin: 0 auto;
+    margin-top: 61px;
+}
+.zy-container .zy-slide .zy-prev, .zy-container .zy-slide .zy-next{
+	position: absolute;
+	top: 60%;
+	width: 40px;
+	height: 80px;
+	margin-top: -40px;
+	line-height: 80px;
+	text-align: center;
+	font-size: 13px;
+	cursor: pointer;
+}
+
+.zy-container .zy-slide .zy-prev{
+	left: -60px;
+    color:black;
+}
+.zy-container .zy-slide .zy-next{
+	right: -60px;
+    color:black;
+}
+.zy-container .zy-slide ul{
+	position: relative;
+	width: 754px;
+	height: 292px;
+	
+}
+.zy-container .zy-slide li{
+	position: absolute;
+	width: 0;
+	height: 0;
+	list-style: none;
+	background-color: black;
+	border-radius: 5px;
+}
+.zy-container .zy-slide li img{
+	width: 100%;
+	height: 100%;
+}
