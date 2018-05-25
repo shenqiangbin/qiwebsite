@@ -428,10 +428,11 @@
             },
         });
 
-
-        $('.slidesx').zySlide({ speed: 3000, delay: 500 }).css({
+        $(function () {
+            $('.slidesx').zySlide({ speed: 3000, delay: 500 }).css({
                 //'backgroundColor': 'red'
             })
+        }
 </script>
 </asp:Content>
 
